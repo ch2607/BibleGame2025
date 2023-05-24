@@ -1,0 +1,104 @@
+﻿{
+   "Bible": [
+    {
+        "Num": "1",
+        "Title": "雅各的名字改為以色列。",
+        "kind" :  "sticker",
+        "isTrue": true,
+        "Answer":"對",
+        "Select": "None",
+        "Verse": "28. 那人說：你的名不要再叫雅各，要叫以色列；因為你與神與人較力，都得了勝。",
+        "VerseNo": "創世記32:28"
+    },
+    {
+        "Num": "2",
+        "Title": "上帝用洪水毀滅所多瑪和蛾摩拉。",
+        "kind" :  "sticker",
+        "isTrue": false,
+        "Answer":"錯",
+        "Select": "None",
+        "Verse": "24. 當時，耶和華將硫磺與火從天上耶和華那裡降與所多瑪和蛾摩拉，",
+        "VerseNo": "創世記19:24 "
+    },
+    {
+        "Num": "3",
+        "Title": "亞當為地球上的每一種生物命名",
+        "kind" :  "sticker",
+        "isTrue": false,
+        "Answer":"錯",
+        "Select": "None",
+        "Verse": "19. 耶和華神用土所造成的野地各樣走獸和空中各樣飛鳥都帶到那人面前，看他叫什麼。那人怎樣叫各樣的活物，那就是他的名字。",
+        "VerseNo": "創世記2:19 "
+        },
+        {
+            "Num": "4",
+            "Title": "拉班欺騙雅各，娶了利亞而不是拉結為妻",
+            "kind" :  "sticker",
+            "isTrue": true,
+            "Answer":"對",
+            "Select": "None",
+            "Verse": "25. 到了早晨，雅各一看是利亞，就對拉班說：你向我做的是什麼事呢？我服事你，不是為拉結嗎？你為什麼欺哄我呢？ ",
+            "VerseNo": "創世記 29:25 "
+        },
+        {
+            "Num": "5",
+            "Title": "亞當和夏娃只有兩個兒子",
+            "kind" :  "sticker",
+            "isTrue": true,
+            "Answer":"對",
+            "Select": "None",
+            "Verse": "25. 亞當又與妻子同房，他就生了一個兒子，起名叫塞特，意思說：神另給我立了一個兒子代替亞伯，因為該隱殺了他。",
+            "VerseNo": "創世記 4:25"
+        },
+        {
+            "Num": "6",
+            "Title": "挪亞生了三個兒子含,閃,和雅弗。",
+            "kind" :  "sticker",
+            "isTrue": true,
+            "Answer":"對",
+            "Select": "None",
+            "Verse": "32. 挪亞五百歲生了閃、含、雅弗。",
+            "VerseNo": "創世記  5:32 "
+        },
+        {
+            "Num": "7",
+            "Title": "以撒的妻子是利百加。",
+            "kind" :  "sticker",
+            "isTrue": true,
+            "Answer":"對",
+            "Select": "None",
+            "Verse": "67. 以撒便領利百加進了他母親撒拉的帳棚，娶了他為妻，並且愛他。以撒自從他母親不在了，這才得了安慰。",
+            "VerseNo": "創世記 24：67"
+       },
+        {
+            "Num": "8",
+            "Title": "七肥七瘦的山羊出現在埃及法老的夢中。",
+            "kind" :  "sticker",
+            "isTrue": true,
+            "Answer":"對",
+            "Select": "None",
+            "Verse": "1. 過了兩年，法老做夢，夢見自己站在河邊，2. 有七隻母牛從河裡上來，又美好又肥壯，在蘆荻中吃草。3. 隨後又有七隻母牛從河裡上來，又醜陋又乾瘦，與那七隻母牛一同站在河邊.",
+            "VerseNo": "創世記 41：1-3"
+        },
+        {
+            "Num": "9",
+            "Title": "約瑟的哥哥們去埃及買糧食。",
+            "kind" :  "sticker",
+            "isTrue": true,
+            "Answer":"對",
+            "Select": "None",
+            "Verse": "3. 於是，約瑟的十個哥哥都下埃及糴糧去了。",
+            "VerseNo": "創世記42：3"
+        },
+        {
+            "Num": "10",
+            "Title": "上帝在該隱身上留下印記，以保護他免於被殺。",
+            "kind" :  "sticker",
+            "isTrue": true,
+            "Answer":"對",
+            "Select": "None",
+            "Verse": "15. 耶和華對他說：凡殺該隱的，必遭報七倍。耶和華就給該隱立一個記號，免得人遇見他就殺他。",
+            "VerseNo": "創世記4：15 "
+        }
+     ]
+ }

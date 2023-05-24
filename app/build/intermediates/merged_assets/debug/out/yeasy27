@@ -1,0 +1,104 @@
+﻿{
+   "Bible": [
+    {
+          "Num": "1",
+          "Title": "在啟示錄中，一把兩刃的劍從耶穌口中出來",
+          "kind" :  "sticker",
+          "isTrue": false,
+          "Answer":"錯",
+          "Select": "None",
+          "Verse": "16. 他右手拿著七星，從他口中出來一把兩刃的利劍；面貌如同烈日放。",
+          "VerseNo": "啟示錄 1:16"
+      },
+      {
+          "Num": "2",
+          "Title": "十誡被保存在約櫃中",
+          "kind" :  "sticker",
+          "isTrue": true,
+          "Answer":"對",
+          "Select": "None",
+          "Verse": "5. 我轉身下山，將這版放在我所做的櫃中，現今還在那裡，正如耶和華所吩我的。",
+          "VerseNo": "申命記10:5 "
+      },
+      {
+          "Num": "3",
+          "Title": "所羅門說活著的螞蟻勝過死去的獅子。",
+          "kind" :  "sticker",
+          "isTrue": true,
+          "Answer":"對",
+          "Select": "None",
+          "Verse": "4. 與一切活人相連的，那人還有指望，因為活著的狗比死了的獅子更強。",
+          "VerseNo": "傳道書 9:4 "
+          },
+      {
+          "Num": "4",
+          "Title": "耶穌讓山羊從懸崖上跑到海裡淹死",
+          "kind" :  "sticker",
+          "isTrue": false,
+          "Answer":"錯",
+          "Select": "None",
+          "Verse": "32, 耶穌說：去吧！鬼就出來，進入豬群。全群忽然闖下山崖，投在海裡淹死.",
+          "VerseNo": "馬太福音8:32"
+      },
+      {
+          "Num": "5",
+          "Title": "貪財是萬惡之根",
+          "kind" :  "sticker",
+          "isTrue": true,
+          "Answer":"對",
+          "Select": "None",
+          "Verse": "10. 貪財是萬惡之根。有人貪戀錢財，就被引誘離了真道，用許多愁苦把自己刺透了。",
+          "VerseNo": "提摩太前書音 6:10"
+      },
+      {
+          "Num": "6",
+          "Title": "新約有四福音",
+          "kind" :  "sticker",
+          "isTrue": true,
+          "Answer":"對",
+          "Select": "None",
+          "Verse": "1. 馬太福音 2. 馬可福音 3.路加福音 4. 約翰福音  ",
+          "VerseNo": "1. 馬太福音 2. 馬可福音 3.路加福音 4. 約翰福音"
+      },
+      {
+          "Num": "7",
+          "Title": "巴拿巴是一位銀匠，他製造亞底米神銀龕。",
+          "kind" :  "sticker",
+          "isTrue": false,
+          "Answer":"錯",
+          "Select": "None",
+          "Verse": "24. 有一個名叫底米丟，是製造亞底米神銀龕的，他使這樣手藝人生意發達。",
+          "VerseNo": "使徒行傳 19:24 "
+      },
+      {
+          "Num": "8",
+          "Title": "約拿單將手杖的末端浸入蜂蜜中。",
+          "kind" :  "sticker",
+          "isTrue": true,
+          "Answer":"對",
+          "Select": "None",
+          "Verse": "27. 約拿單沒有聽見他父親叫百姓起誓，所以伸手中的杖，用杖頭蘸在蜂房裏，轉手送入口內，眼睛就明亮了。",
+          "VerseNo": "撒母耳記上 14:27"
+      },
+      {
+          "Num": "9",
+          "Title": "摩西拒絕被稱為法老女兒之子。",
+          "kind" :  "sticker",
+          "isTrue": true,
+          "Answer":"對",
+          "Select": "None",
+          "Verse": "24.  摩西因着信，長大了就不肯稱為法老女兒之子。",
+          "VerseNo": "希伯來書 11:24"
+      },
+      {
+          "Num": "10",
+          "Title":"葉忒羅也被稱為流珥。",
+          "kind" :  "sticker",
+          "isTrue": true,
+          "Answer":"對",
+          "Select": "None",
+          "Verse": "18. 他們來到父親流珥那裡；他說：今日你們為何來得這麼快呢﹖",
+          "VerseNo": "出埃及記 2:18 "
+      }
+     ]
+ }

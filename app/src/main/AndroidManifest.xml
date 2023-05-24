@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.Game.ccmusa.android"
+    android:versionCode="13"
+    android:versionName="2.0">
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" tools:node="remove" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"
+        android:maxSdkVersion="19" />
+
+    <supports-screens
+        android:smallScreens="true"
+        android:normalScreens="true"
+        android:largeScreens= "true"
+        android:anyDensity="true" />
+
+    <application
+        android:icon="@drawable/ic_launcher"
+        android:screenOrientation="portrait"
+        android:clearTaskOnLaunch="true"
+        android:label="@string/app_name">
+        <activity
+
+            android:name="com.Game.ccmusa.android.Main"
+            android:screenOrientation="portrait"
+            android:launchMode="singleTask"
+            android:clearTaskOnLaunch="true"
+            android:exported="true"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.HOME" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:label="@string/about_title"
+            android:name="com.Game.ccmusa.android.About"
+            android:exported="false"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity android:label="@string/game_title"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+            android:name="com.Game.ccmusa.android.Game"
+            android:exported="false"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity android:label="@string/new_game_title"
+            android:name="com.Game.ccmusa.android.GameLevel"
+        android:screenOrientation="portrait">
+    </activity>
+        <activity android:label="@string/help_label"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+            android:name="com.Game.ccmusa.android.HelpGame"
+            android:exported="false"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity android:label="@string/bible_label"
+            android:name="com.Game.ccmusa.android.GameTableList"
+            android:exported="false"
+            android:screenOrientation="portrait">
+        </activity>
+
+        <activity android:label="@string/game_results"
+            android:name="com.Game.ccmusa.android.Game15"
+            android:exported="false"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity android:label="@string/game_results"
+            android:name="com.Game.ccmusa.android.Game25"
+            android:exported="false"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity android:label="@string/game_results"
+            android:name="com.Game.ccmusa.android.DiffTableList"
+            android:exported="false"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity android:label="@string/game_results"
+            android:name="com.Game.ccmusa.android.DifficultGames"
+            android:exported="false"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity android:label="@string/game_results"
+            android:name="com.Game.ccmusa.android.AllResults"
+            android:exported="false"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity android:label="@string/easy_label"
+            android:name="com.Game.ccmusa.android.ChooseGridList"
+            android:exported="false"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity android:label="@string/easy_label"
+            android:name="com.Game.ccmusa.android.GameChooseList"
+            android:exported="false"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity android:label="@string/medium_label"
+            android:name="com.Game.ccmusa.android.GameYandNList"
+            android:exported="false"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity android:label="@string/medium_label"
+            android:name="com.Game.ccmusa.android.YandNGridList"
+            android:exported="false"
+            android:screenOrientation="portrait">
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+
+    </application>
+
+</manifest>

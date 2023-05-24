@@ -1,0 +1,104 @@
+﻿{
+   "Bible": [
+     {
+            "Num": "1",
+            "Title": "雅各是以撒的長子。",
+            "kind" :  "sticker",
+            "isTrue": false,
+            "Answer":"錯",
+            "Select": "None",
+            "Verse": "25.先產的身體發紅，渾身有毛，如同皮衣，他們就給他起名叫以掃【就是有毛的意思】。26. 隨後又生了以掃的兄弟，手抓住以掃的腳跟，因此給他起名叫雅各【就是抓住的意思】。利百加生下兩個兒子的時候，以撒年正六十歲。",
+            "VerseNo": "創世記 25:25-26 "
+        },
+        {
+            "Num": "2",
+            "Title": "艾薩克提著刀去獻祭的地方",
+            "kind" :  "sticker",
+            "isTrue": false,
+            "Answer":"錯",
+            "Select": "None",
+            "Verse": "6. 亞伯拉罕把燔祭的柴放在他兒子以撒身上，自己手裏拿着火與刀；於是二人同行。",
+            "VerseNo": "創世記 22:6 "
+        },
+        {
+            "Num": "3",
+            "Title": "神應許亞伯拉罕迦南地",
+            "kind" :  "sticker",
+            "isTrue": true,
+            "Answer":"對",
+            "Select": "None",
+            "Verse": "8. 我要將你現在寄居的地，就是迦南全地，賜給你和你的後裔永遠為業，我也必作他們的神.",
+            "VerseNo": "創世記 17:8  "
+        },
+        {
+            "Num": "4",
+            "Title": "雅各與天使鬥爭中，雅各大腿窩摸了一把.",
+            "kind" :  "sticker",
+            "isTrue": true,
+            "Answer":"對",
+            "Select": "None",
+            "Verse": "25. 那人見自己勝不過他，就將他的大腿窩摸了一把，雅各的大腿窩正在摔跤的時候就扭了。",
+            "VerseNo": "創世記 32:25 "
+        },
+        {
+            "Num": "5",
+            "Title": "寧錄建造了第一座城市",
+            "kind" :  "sticker",
+            "isTrue": false,
+            "Answer":"錯",
+            "Select": "None",
+            "Verse": "17. 該隱與妻子同房，他妻子就懷孕，生了以諾。該隱建造了一座城，就按着他兒子的名將那城叫做以諾。",
+            "VerseNo": " 創世記 4:17 "
+        },
+        {
+            "Num": "6",
+            "Title": "流出伊甸園的河分成7條河",
+            "kind" :  "sticker",
+            "isTrue": false,
+            "Answer":"錯",
+            "Select": "None",
+            "Verse": "10. 有河從伊甸流出來，滋潤那園子，從那裏分為四道：",
+            "VerseNo": "創世記 2:10  "
+        },
+        {
+            "Num": "7",
+            "Title":"約瑟夫時代埃及的飢荒持續了三年",
+            "kind" :  "sticker",
+            "isTrue": false,
+            "Answer":"錯",
+            "Select": "None",
+            "Verse": "54. 七個荒年就來了。正如約瑟所說的，各地都有饑荒；惟獨埃及全地有糧食。 ",
+            "VerseNo": "創世記 41:54"
+        },
+      {
+          "Num": "8",
+          "Title": "約瑟夫在獄中為理髮師解夢",
+          "kind" :  "sticker",
+          "isTrue": false,
+          "Answer":"錯",
+          "Select": "None",
+          "Verse": "21. 使酒政官復原職，他仍舊遞杯在法老手中；22.     但把膳長掛起來，正如約瑟向他們所解的話。23. 酒政卻不記念約瑟，竟忘了他。",
+          "VerseNo": "創世記 40:21-23 "
+      },
+      {
+          "Num": "9",
+          "Title": "耶利米逃跑了，他的衣服落在了一個女人的手裡",
+          "kind" :  "sticker",
+          "isTrue": false,
+          "Answer":"錯",
+          "Select": "None",
+          "Verse": "10. 有一天，約瑟進屋裏去辦事，家中人沒有一個在那屋裏，",
+          "VerseNo": "創世記 39:10 "
+      },
+      {
+          "Num": "10",
+          "Title": "雅各布的第一任妻子是拉結。",
+          "kind" :  "sticker",
+          "isTrue": false,
+          "Answer":"錯",
+          "Select": "None",
+          "Verse": "23. 到晚上，拉班將女兒利亞送來給雅各，雅各就與她同房。",
+          "VerseNo": "創世記 29:23  "
+      }
+     ]
+ }

@@ -1,0 +1,104 @@
+﻿{
+   "Bible": [
+    {
+          "Num": "1",
+          "Title": "使徒彼得是個帳篷匠",
+          "kind" :  "sticker",
+          "isTrue": false,
+          "Answer":"錯",
+          "Select": "None",
+          "Verse": "18. 耶穌在加利利海邊行走，看見弟兄二人，就是那稱呼彼得的西門和他兄弟安得烈，在海裡撒網；他們本是打魚的。",
+          "VerseNo": "馬太福音 4:18"
+      },
+      {
+          "Num": "2",
+          "Title": "以色列在曠野漂流四十年。",
+          "kind" :  "sticker",
+          "isTrue": true,
+          "Answer":"對",
+          "Select": "None",
+          "Verse": "13. 耶和華的怒氣向以色列人發作，使他們在曠野飄流四十年，等到在耶和華眼前行惡的那一代人都消滅了. ",
+          "VerseNo": "民數記 32:13 "
+      },
+      {
+          "Num": "3",
+          "Title": "耶穌接受施洗約翰的洗禮。",
+          "kind" :  "sticker",
+          "isTrue": true,
+          "Answer":"對",
+          "Select": "None",
+          "Verse": "1. 那時，耶穌從加利利的拿撒勒來，在約但河裡受了約翰的洗。",
+          "VerseNo": "馬可福音 9:1"
+      },
+      {
+          "Num": "4",
+          "Title": "耶穌在耶利哥的梧桐樹上看見撒該",
+          "kind" :  "sticker",
+          "isTrue": false,
+          "Answer":"錯",
+          "Select": "None",
+          "Verse": "4. 就跑到前頭，爬上桑樹，要看耶穌，因為耶穌必從那裡經過。",
+          "VerseNo": "路加福音 19：4 "
+      },
+      {
+          "Num": "5",
+          "Title": "亞倫的杖吞噬了他們的杖。",
+          "kind" :  "sticker",
+          "isTrue": true,
+          "Answer":"對",
+          "Select": "None",
+          "Verse": "12. 他們各人丟下自己的杖，杖就變作蛇；但亞倫的杖吞了他們的杖。",
+          "VerseNo": "出埃及記 7:12 "
+      },
+      {
+          "Num": "6",
+          "Title": "掃羅殺死萬萬，大衛殺死千千",
+          "kind" :  "sticker",
+          "isTrue": false,
+          "Answer":"錯",
+          "Select": "None",
+          "Verse": "11. 亞吉的臣僕對亞吉說：「這不是以色列國王大衛嗎？那裏的婦女跳舞唱和，不是指着他說『掃羅殺死千千，大衛殺死萬萬』嗎？」",
+          "VerseNo": "撒母耳記上 21:11"
+      },
+      {
+          "Num": "7",
+          "Title": "約翰與耶穌爭論洗他的腳",
+          "kind" :  "sticker",
+          "isTrue": false,
+          "Answer":"錯",
+          "Select": "None",
+          "Verse": "8. 彼得說：你永不可洗我的腳！耶穌說：我若不洗你，你就與我無分了。 ",
+          "VerseNo": "約翰福音 13:8 "
+      },
+      {
+          "Num": "8",
+          "Title": "生命樹每個月都結果子。",
+          "kind" :  "sticker",
+          "isTrue": true,
+          "Answer":"對",
+          "Select": "None",
+          "Verse": "2. 在河這邊與那邊有生命樹，結十二樣（或作：回）果子，每月都結果子；樹上的葉子乃為醫治萬民.",
+          "VerseNo": "啟示錄 22：2 "
+      },
+      {
+          "Num": "9",
+          "Title": "五名麻風病人痊癒後回到耶穌身邊。",
+          "kind" :  "sticker",
+          "isTrue": false,
+          "Answer":"錯",
+          "Select": "None",
+          "Verse": "17. 耶穌說：潔淨了的不是十個人嗎？那九個在哪裡呢？。",
+          "VerseNo": "路加福音 17:17 "
+      },
+      {
+          "Num": "10",
+          "Title": "耶穌說身體的光就是心。",
+          "kind" :  "sticker",
+          "isTrue": false,
+          "Answer":"錯",
+          "Select": "None",
+          "Verse": "22. 眼睛就是身上的燈。你的眼睛若瞭亮，全身就光明；",
+          "VerseNo": "馬太福音6:22 "
+      }
+     ]
+ }

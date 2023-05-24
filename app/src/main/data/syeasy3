@@ -1,0 +1,104 @@
+﻿{
+   "Bible": [
+    {
+            "Num": "1",
+                      "Title": "上帝派了两个天使去摧毁所多玛和蛾摩拉的城市。",
+                      "kind" :  "sticker",
+                      "isTrue": true,
+                      "Answer":"对",
+                      "Select": "None",
+                      "Verse": "13. 我们要毁灭这地方；因为城内罪恶的声音在耶和华面前甚大，耶和华差我们来，要毁灭这地方。",
+                      "VerseNo": "创世记 19:13 "
+                  },
+                  {
+                      "Num": "2",
+                      "Title": "夏甲给亚伯拉罕生了一个孩子",
+                      "kind" :  "sticker",
+                      "isTrue": true,
+                      "Answer":"对",
+                      "Select": "None",
+                      "Verse": "15. 后来夏甲给亚伯兰生了一个儿子；亚伯兰给他起名叫以实玛利。",
+                      "VerseNo": "创世记 16:15"
+                  },
+                  {
+                      "Num": "3",
+                      "Title": "便雅悯是雅各最小的儿子。",
+                      "kind" :  "sticker",
+                      "isTrue": true,
+                      "Answer":"对",
+                      "Select": "None",
+                      "Verse": "29. 约瑟举目看见他同母的兄弟便雅悯，就说：你们向我所说那顶小的兄弟就是这位吗？又说：小儿啊，愿神赐恩给你！",
+                      "VerseNo": "创世记 43:29 "
+                  },
+                  {
+                      "Num": "4",
+                      "Title": "雅各布和以扫我们是双胞胎。",
+                      "kind" :  "sticker",
+                      "isTrue": true,
+                      "Answer":"对",
+                      "Select": "None",
+                      "Verse": "随后又生了以扫的兄弟，手抓住以扫的脚跟，因此给他起名叫雅各【就是抓住的意思】。利百加生下两个儿子的时候，以撒年正六十岁。",
+                      "VerseNo": "创世记 25:26 "
+                  },
+                  {
+                      "Num": "5",
+                      "Title": "以撒出卖长子生分他与生俱来的权利",
+                      "kind" :  "sticker",
+                      "isTrue": false,
+                      "Answer":"错",
+                      "Select": "None",
+                      "Verse": "33. 雅各说：你今日对我起誓吧。以扫就对他起了誓，把长子的名分卖给雅各。34. 于是雅各将饼和红豆汤给了以扫，以扫吃了喝了，便起来走了。这就是轻看了他长子的名分",
+                      "VerseNo": "创世记 25:32‭-34  "
+                  },
+                  {
+                      "Num": "6",
+                      "Title": "约瑟被卖了二十块银子",
+                      "kind" :  "sticker",
+                      "isTrue": true,
+                      "Answer":"对",
+                      "Select": "None",
+                      "Verse": "28. 有些米甸的商人从那裏经过，哥哥们就把约瑟从坑裏拉上来，讲定二十舍客勒银子，把约瑟卖给以实玛利人。他们就把约瑟带到埃及去了。",
+                      "VerseNo": "创世记 37:28  "
+                  },
+                  {
+                      "Num": "7",
+                      "Title": "上帝在第二天创造了光。",
+                      "kind" :  "sticker",
+                      "isTrue": false,
+                      "Answer":"错",
+                      "Select": "None",
+                      "Verse": "3. 神说：要有光，就有了光。4. 神看光是好的，就把光暗分开了。5. 神称光为昼，称暗为夜。有晚上，有早晨，这是头一日。",
+                      "VerseNo": "创世记1:3-5 "
+                  },
+                {
+                    "Num": "8",
+                    "Title": "以撒是拉结和利亚的父亲.",
+                    "kind" :  "sticker",
+                    "isTrue": false,
+                    "Answer":"错",
+                    "Select": "None",
+                    "Verse": "16. 拉班有两个女儿，大的名叫利亚，小的名叫拉结。",
+                    "VerseNo": "创世记 29:16  "
+                },
+                {
+                    "Num": "9",
+                    "Title": "亚伯拉罕和撒拉的儿子名叫雅各",
+                    "kind" :  "sticker",
+                    "isTrue": false,
+                    "Answer":"错",
+                    "Select": "None",
+                    "Verse": "3. 亚伯拉罕给撒拉所生的儿子起名叫以撒",
+                    "VerseNo": "创世记 21:3  "
+                },
+                {
+                       "Num": "10",
+                        "Title": "亚伯杀了他的兄弟该隐",
+                        "kind" :  "sticker",
+                        "isTrue": false,
+                        "Answer":"错",
+                        "Select": "None",
+                        "Verse": "8. 该隐与他兄弟亚伯说话；二人正在田间。该隐起来打他兄弟亚伯，把他杀。",
+                        "VerseNo": "创世记 4:8  "
+    }
+     ]
+ }

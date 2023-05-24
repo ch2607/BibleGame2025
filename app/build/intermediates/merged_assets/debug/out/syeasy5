@@ -1,0 +1,104 @@
+﻿{
+   "Bible": [
+     {
+            "Num": "1",
+                      "Title": "雅各是以撒的长子。",
+                      "kind" :  "sticker",
+                      "isTrue": false,
+                      "Answer":"错",
+                      "Select": "None",
+                      "Verse": "25.先产的身体发红，浑身有毛，如同皮衣，他们就给他起名叫以扫【就是有毛的意思】。26. 随后又生了以扫的兄弟，手抓住以扫的脚跟，因此给他起名叫雅各【就是抓住的意思】。利百加生下两个儿子的时候，以撒年正六十岁。",
+                      "VerseNo": "创世记 25:25-26 "
+                  },
+                  {
+                      "Num": "2",
+                      "Title": "艾萨克提着刀去献祭的地方",
+                      "kind" :  "sticker",
+                      "isTrue": false,
+                      "Answer":"错",
+                      "Select": "None",
+                      "Verse": "6. 亚伯拉罕把燔祭的柴放在他儿子以撒身上，自己手裏拿着火与刀；于是二人同行。",
+                      "VerseNo": "创世记 22:6 "
+                  },
+                  {
+                      "Num": "3",
+                      "Title": "神应许亚伯拉罕迦南地",
+                      "kind" :  "sticker",
+                      "isTrue": true,
+                      "Answer":"对",
+                      "Select": "None",
+                      "Verse": "8. 我要将你现在寄居的地，就是迦南全地，赐给你和你的后裔永远为业，我也必作他们的神.",
+                      "VerseNo": "创世记 17:8  "
+                  },
+                  {
+                      "Num": "4",
+                      "Title": "雅各与天使斗争中，雅各大腿窝摸了一把.",
+                      "kind" :  "sticker",
+                      "isTrue": true,
+                      "Answer":"对",
+                      "Select": "None",
+                      "Verse": "25. 那人见自己胜不过他，就将他的大腿窝摸了一把，雅各的大腿窝正在摔跤的时候就扭了。",
+                      "VerseNo": "创世记 32:25 "
+                  },
+                  {
+                      "Num": "5",
+                      "Title": "宁录建造了第一座城市",
+                      "kind" :  "sticker",
+                      "isTrue": false,
+                      "Answer":"错",
+                      "Select": "None",
+                      "Verse": "17. 该隐与妻子同房，他妻子就怀孕，生了以诺。该隐建造了一座城，就按着他儿子的名将那城叫做以诺。",
+                      "VerseNo": " 创世记 4:17 "
+                  },
+                  {
+                      "Num": "6",
+                      "Title": "流出伊甸园的河分成7条河",
+                      "kind" :  "sticker",
+                      "isTrue": false,
+                      "Answer":"错",
+                      "Select": "None",
+                      "Verse": "10. 有河从伊甸流出来，滋润那园子，从那裏分为四道：",
+                      "VerseNo": "创世记 2:10  "
+                  },
+                  {
+                      "Num": "7",
+                      "Title":"约瑟夫时代埃及的飢荒持续了三年",
+                      "kind" :  "sticker",
+                      "isTrue": false,
+                      "Answer":"错",
+                      "Select": "None",
+                      "Verse": "54. 七个荒年就来了。正如约瑟所说的，各地都有饥荒；惟独埃及全地有粮食。 ",
+                      "VerseNo": "创世记 41:54"
+                  },
+                {
+                    "Num": "8",
+                    "Title": "约瑟夫在狱中为理发师解梦",
+                    "kind" :  "sticker",
+                    "isTrue": false,
+                    "Answer":"错",
+                    "Select": "None",
+                    "Verse": "21. 使酒政官復原职，他仍旧递杯在法老手中；22.     但把膳长挂起来，正如约瑟向他们所解的话。23. 酒政却不记念约瑟，竟忘了他。",
+                    "VerseNo": "创世记 40:21-23 "
+                },
+                {
+                    "Num": "9",
+                    "Title": "耶利米逃跑了，他的衣服落在了一个女人的手里",
+                    "kind" :  "sticker",
+                    "isTrue": false,
+                    "Answer":"错",
+                    "Select": "None",
+                    "Verse": "10. 有一天，约瑟进屋裏去办事，家中人没有一个在那屋裏，",
+                    "VerseNo": "创世记 39:10 "
+                },
+                {
+                    "Num": "10",
+                    "Title": "雅各布的第一任妻子是拉结。",
+                    "kind" :  "sticker",
+                    "isTrue": false,
+                    "Answer":"错",
+                    "Select": "None",
+                    "Verse": "23. 到晚上，拉班将女儿利亚送来给雅各，雅各就与她同房。",
+                    "VerseNo": "创世记 29:23  "
+      }
+     ]
+ }

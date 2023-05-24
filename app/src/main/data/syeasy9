@@ -1,0 +1,104 @@
+﻿{
+   "Bible": [
+    {
+          "Num": "1",
+                   "Title": "歌利亚每天早上和晚上都向以色列人挑战，持续了 7天。",
+                   "kind" :  "sticker",
+                   "isTrue": false,
+                   "Answer":"错",
+                   "Select": "None13",
+                   "Verse": "16. 那非利士人早晚都出来站着，如此四十日。。",
+                   "VerseNo": "撒母耳记上 17: 16"
+               },
+               {
+                   "Num": "2",
+                   "Title": "安得烈带着一个男孩带着 5个饼和 2条鱼来见耶稣。",
+                   "kind" :  "sticker",
+                   "isTrue": true,
+                   "Answer":"对",
+                   "Select": "None",
+                   "Verse": "8. 有一个门徒，就是西门彼得的兄弟安得烈，对耶稣说：9. 在这里有一个孩童，带着五个大麦饼、两条鱼，只是分给这许多人还？ ",
+                   "VerseNo": "约翰福音 6:8-9 "
+               },
+               {
+                   "Num": "3",
+                   "Title": "拉撒路被耶稣救活。",
+                   "kind" :  "sticker",
+                   "isTrue": true,
+                   "Answer":"对",
+                   "Select": "None",
+                   "Verse": "43.说了这话，就大声呼叫说：拉撒路出来！44. 那死人就出来了，手脚裹着布，脸上包着手巾。耶稣对他们说，解开，叫他走！",
+                   "VerseNo": "约翰福音 11:43-44 "
+               },
+               {
+                   "Num": "4",
+                   "Title": "施洗约翰被耶稣埋葬",
+                   "kind" :  "sticker",
+                   "isTrue": false,
+                   "Answer":"错",
+                   "Select": "None",
+                   "Verse": "12. 约翰的门徒来，把尸首领去埋葬了，就去告诉耶稣。",
+                   "VerseNo": "马太福音 14：12 "
+               },
+               {
+                   "Num": "5",
+                   "Title": "耶稣说，如果它会使你陷入困境，就砍下你的手。",
+                   "kind" :  "sticker",
+                   "isTrue": true,
+                   "Answer":"对",
+                   "Select": "None",
+                   "Verse": "30. 若是右手叫你跌倒，就砍下来丢掉，宁可失去百体中的一体，不叫全身下入地狱。",
+                   "VerseNo": "马太福音 5：30 "
+               },
+               {
+                   "Num": "6",
+                   "Title": "彼得亲耶稣的嘴。",
+                   "kind" :  "sticker",
+                   "isTrue": false,
+                   "Answer":"错",
+                   "Select": "None",
+                   "Verse": "48. 耶稣对他说：犹大！你用亲嘴的暗号卖人子吗﹖",
+                   "VerseNo": "路加福音 22:48 "
+               },
+               {
+                   "Num": "7",
+                   "Title": "使徒保罗是个渔夫",
+                   "kind" :  "sticker",
+                   "isTrue": false,
+                   "Answer":"错",
+                   "Select": "None",
+                   "Verse": "1. 这事以后，保罗离了雅典，来到哥林多。2. 遇见一个犹太人，名叫亚居拉，他生在本都；因为革老丢命犹太人都离开罗马，新近带着妻百基拉，从义大利来。保罗就投奔了他们。3. 他们本是製造帐棚为业。保罗因与他们同业，就和他们同住做工。 ",
+                   "VerseNo": "使徒行传18：1-3 "
+               },
+               {
+                   "Num": "8",
+                   "Title": "只有彼得门徒在水面行走",
+                   "kind" :  "sticker",
+                   "isTrue": true,
+                   "Answer":"对",
+                   "Select": "None",
+                   "Verse": " 28.「彼得说：主，如果是你，请叫我从水面上走到你那里去。",
+                   "VerseNo": "马太福音 14;28"
+               },
+               {
+                   "Num": "9",
+                   "Title": "启示录的作者是约翰。",
+                   "kind" :  "sticker",
+                   "isTrue": true,
+                   "Answer":"对",
+                   "Select": "None",
+                   "Verse": "1. 耶稣基督的启示，就是神赐给他，叫他将必要快成的事指示他的众僕人。他就差遣使者晓谕他的僕人约翰。",
+                   "VerseNo": "启示录 1：1 "
+               },
+               {
+                   "Num": "10",
+                   "Title": "耶稣说窄门通向永生",
+                   "kind" :  "sticker",
+                   "isTrue": true,
+                   "Answer":"对",
+                   "Select": "None",
+                   "Verse": "14. 引到永生，那门是窄的，路是小的，找着的人也少。 ",
+                   "VerseNo": "马太福音7：14"
+      }
+     ]
+ }

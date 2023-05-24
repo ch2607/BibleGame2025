@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#3500ffff</color>
+    <color name="puzzle_background">#0000ffff</color>
+    <color name="puzzle_hilite">#ffffffff</color>
+    <color name="puzzle_light">#64c6d4ef</color>
+    <color name="puzzle_dark">#6456648f</color>
+    <color name="puzzle_gary_text">#648F9195</color>
+    <color name="puzzle_foreground">#139ADD</color>
+    <color name="puzzle_hint_0">#64ff0000</color>
+    <color name="puzzle_games">#4f69fd</color>
+    <color name="puzzle_green">#4daf51</color>
+    <color name="puzzle_red">#fd2312</color>
+    <color name="puzzle_yellow">#fddd39</color>
+    <color name="puzzle_hint_1">#6400ff80</color>
+    <color name="puzzle_hint_2">#2000ff80</color>
+    <color name="puzzle_selected">#64ff8000</color>
+    <color name="puzzle_space">#c0aa9f</color>
+    <color name="puzzle_color">#f0b708</color>
+    <color name="colorPrimary">#3500ffff</color>
+    <color name="purple_200">#FFFFFFFF</color>
+    <color name="purple_500">#FFFFFFFF</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#121111</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorSecondary">#FFFFFFFF</color>"
+    <color name="green">#57cc02</color>col
+    <color name="red">#E82A2A</color>
+    <color name="light_red">#DDA7A7</color>
+    <color name="blue">#37B0DF</color>
+    <color name="ligh_green">#d7ffb8</color>
+</resources>

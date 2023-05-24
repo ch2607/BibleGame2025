@@ -1,0 +1,104 @@
+﻿{
+   "Bible": [
+    {
+            "Num": "1",
+                    "Title": "耶稣在第三天復活。",
+                    "kind" :  "sticker",
+                    "isTrue": true,
+                    "Answer":"对",
+                    "Select": "None",
+                    "Verse": "46. 又对他们说：照经上所写的，基督必受害，第三日从死里復活.",
+                    "VerseNo": "路加福音24:46"
+                },
+              {
+                  "Num": "2",
+                  "Title": "所罗门建造圣殿。",
+                  "kind" :  "sticker",
+                  "isTrue": true,
+                  "Answer":"对",
+                  "Select": "None",
+                  "Verse": "2. 所罗门王为耶和华所建的殿，长六十肘，宽二十肘，高三十肘。",
+                  "VerseNo": "列王纪上 6:2 "
+              },
+              {
+                  "Num": "3",
+                  "Title": "撒非喇的丈夫是亚拿尼亚。",
+                  "kind" :  "sticker",
+                  "isTrue": true,
+                  "Answer":"对",
+                  "Select": "None",
+                  "Verse": "1. 有一个人，名叫亚拿尼亚，同他的妻子撒非喇卖了田产，",
+                  "VerseNo": "使徒行传 5:1"
+              },
+              {
+                  "Num": "4",
+                  "Title": "约翰睡在两个士兵之间的监狱里",
+                  "kind" :  "sticker",
+                  "isTrue": false,
+                  "Answer":"错",
+                  "Select": "None",
+                  "Verse": "6. 希律将要提他出来的前一夜，彼得被两条铁鍊锁着，睡在两个兵丁当中；看守的人也在门外看守。",
+                  "VerseNo": "使徒行传 12：6 "
+              },
+              {
+                  "Num": "5",
+                  "Title": "摩西打死了一个埃及人，把他扔在沙子里。",
+                  "kind" :  "sticker",
+                  "isTrue": true,
+                  "Answer":"对",
+                  "Select": "None",
+                  "Verse": "11. 后来，摩西长大，他出去到他弟兄那里，看他们的重担，见一个埃及人打希伯来人的一个弟兄。12.他左右观看，见没有人，就把埃及人打死了，藏在沙土里。",
+                  "VerseNo": "出埃及记 2:11-12"
+              },
+              {
+                  "Num": "6",
+                  "Title": "耶稣復活后第一次向抹大拉的马利亚显现。",
+                  "kind" :  "sticker",
+                  "isTrue": true,
+                  "Answer":"对",
+                  "Select": "None",
+                  "Verse": "9. 在七日的第一日清早，耶稣復活了，就先向抹大拉的马利亚显现。耶稣从他身上曾赶出七个鬼。",
+                  "VerseNo": "马可福音 16：9"
+              },
+              {
+                  "Num": "7",
+                  "Title": "雅各的儿子是亚伦",
+                  "kind" :  "sticker",
+                  "isTrue": false,
+                  "Answer":"错",
+                  "Select": "None",
+                  "Verse": "1. 以色列的众子，各带家眷，和雅各一同来到埃及。他们的名字记在下面。2. 有流便、西缅、利未、犹大、3. 以萨迦、西布伦、便雅悯、4. 但、拿弗他利、迦得、亚设。 ",
+                  "VerseNo": "出埃及记 1:1-4 "
+              },
+              {
+                  "Num": "8",
+                  "Title": "参孙将狮子撕成碎片。",
+                  "kind" :  "sticker",
+                  "isTrue": true,
+                  "Answer":"对",
+                  "Select": "None",
+                  "Verse": "5. 参孙跟他父母下亭拿去，到了亭拿的葡萄园，见有一隻少壮狮子向他吼叫。6. 耶和华的灵大大感动参孙，他虽然手无器械，却将狮子撕裂，如同撕裂山羊羔一样。他行这事并没有告诉父母。",
+                  "VerseNo": "士师记  14：5-6 "
+              },
+              {
+                  "Num": "9",
+                  "Title": "保罗遭遇三次海难。",
+                  "kind" :  "sticker",
+                  "isTrue": true,
+                  "Answer":"对",
+                  "Select": "None",
+                  "Verse": "被棍打了三次；被石头打了一次，遇着船坏三次，一昼一夜在深海里。",
+                  "VerseNo": "哥林多后书 11：25 "
+              },
+              {
+                  "Num": "10",
+                  "Title": "拉麦是最年长的人",
+                  "kind" :  "sticker",
+                  "isTrue": false,
+                  "Answer":"错",
+                  "Select": "None",
+                  "Verse": "玛土撒拉是最年长的人。他活了 969 岁。 ",
+                  "VerseNo": "创世记 6, 7, 8"
+      }
+     ]
+ }

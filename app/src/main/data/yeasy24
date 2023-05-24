@@ -1,0 +1,104 @@
+﻿{
+   "Bible": [
+    {
+          "Num": "1",
+          "Title": "彼得的頭被點在盤子裡",
+          "kind" :  "sticker",
+          "isTrue": false,
+          "Answer":"錯",
+          "Select": "None",
+          "Verse": "8. 女兒被母親所使，就說：請把施洗約翰的頭放在盤子裡，拿來給我。9. 王便憂愁，但因他所起的誓，又因同席的人，就吩咐給他；10.於是打發人去，在監裡斬了約翰，11. 把頭放在盤子裡，拿來給了女子；女子拿去給他母親。",
+          "VerseNo": "馬太福音 14:8-11 "
+      },
+      {
+          "Num": "2",
+          "Title": "底波拉是以色列唯一的女法官",
+          "kind" :  "sticker",
+          "isTrue": true,
+          "Answer":"對",
+          "Select": "None",
+          "Verse": "4. 有一位女先知名叫底波拉，是拉比多的妻，當時作以色列的士師。",
+          "VerseNo": "士師記 4:4 "
+      },
+      {
+          "Num": "3",
+          "Title": "耶穌說“好樹結好果子”。",
+          "kind" :  "sticker",
+          "isTrue": true,
+          "Answer":"對",
+          "Select": "None",
+          "Verse": "17. 這樣，凡好樹都結好果子，惟獨壞樹結壞果子.",
+          "VerseNo": "馬太福音7:17 "
+      },
+      {
+          "Num": "4",
+          "Title": "彌賽亞來自利未部落。",
+          "kind" :  "sticker",
+          "isTrue": true,
+          "Answer":"對",
+          "Select": "None",
+          "Verse": "1. 亞伯拉罕的後裔，大衛的子孫（後裔，子孫：原文是兒子；下同）耶穌基督的家譜：2. 亞伯拉罕生以撒；以撒生雅各；雅各生猶大和他的弟兄；",
+          "VerseNo": "馬太福音 1:1-2 "
+      },
+      {
+          "Num": "5",
+          "Title": "耶穌出生在拿撒勒城",
+          "kind" :  "sticker",
+          "isTrue": false,
+          "Answer":"錯",
+          "Select": "None",
+          "Verse": "當希律王的時候，耶穌生在猶太的伯利恆。有幾個博士從東方來到耶路撒冷,",
+          "VerseNo": "馬太福音2:1 "
+      },
+      {
+          "Num": "6",
+          "Title": "摩西兩次從磐石中流出水來",
+          "kind" :  "sticker",
+          "isTrue": true,
+          "Answer":"對",
+          "Select": "None",
+          "Verse": "8.. 你拿著杖去，和你的哥哥亞倫招聚會眾，在他們眼前吩咐磐石發出水來，水就從磐石流出，給會眾和他們的牲畜喝。",
+          "VerseNo": "民數記  20:8 "
+      },
+      {
+          "Num": "7",
+          "Title": "保羅在米利大遇難。",
+          "kind" :  "sticker",
+          "isTrue": true,
+          "Answer":"對",
+          "Select": "None",
+          "Verse": "1. 我們既已得救，才知道那島名叫米利大。",
+          "VerseNo": "使徒行傳  28:1 "
+      },
+      {
+          "Num": "8",
+          "Title": "當大衛在屋頂上看到拔示巴時，拔示巴正在沐浴。",
+          "kind" :  "sticker",
+          "isTrue": true,
+          "Answer":"對",
+          "Select": "None",
+          "Verse": "2. 一日，太陽平西，大衛從床上起來，在王宮的平頂上遊行，看見一個婦人，容貌甚美，3.大衛就差人打聽那婦人是誰。有人說：他是以連的女兒，赫人烏利亞的妻拔示巴。.",
+          "VerseNo": "撒母耳記下 11:2-3 "
+      },
+      {
+          "Num": "9",
+          "Title": "約書亞是摩西的繼承人。",
+          "kind" :  "sticker",
+          "isTrue": true,
+          "Answer":"對",
+          "Select": "None",
+          "Verse": "18. 耶和華對摩西說：嫩的兒子約書亞是心中有聖靈的；你將他領來，按手在他頭上，19. 使他站在祭司以利亞撒和全會眾面前，囑咐他。",
+          "VerseNo": "民數記  27:18-19"
+      },
+      {
+          "Num": "10",
+          "Title":"耶穌在約旦受洗。",
+          "kind" :  "sticker",
+          "isTrue": true,
+          "Answer":"對",
+          "Select": "None",
+          "Verse": "13. 當下耶穌從加利利來到約但河，見了約翰，要受他的洗。。 ",
+          "VerseNo": "馬太福音 3:13"
+      }
+     ]
+ }

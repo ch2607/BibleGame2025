@@ -1,0 +1,255 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.Game.ccmusa.android"
+4    android:versionCode="13"
+5    android:versionName="2.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="30"
+8-->D:\Final Game 1.0\BibleGame\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->D:\Final Game 1.0\BibleGame\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission
+11-->D:\Final Game 1.0\BibleGame\app\src\main\AndroidManifest.xml:8:5-9:38
+12        android:name="android.permission.WRITE_EXTERNAL_STORAGE"
+12-->D:\Final Game 1.0\BibleGame\app\src\main\AndroidManifest.xml:8:22-78
+13        android:maxSdkVersion="19" />
+13-->D:\Final Game 1.0\BibleGame\app\src\main\AndroidManifest.xml:9:9-35
+14
+15    <supports-screens
+15-->D:\Final Game 1.0\BibleGame\app\src\main\AndroidManifest.xml:11:5-15:37
+16        android:anyDensity="true"
+16-->D:\Final Game 1.0\BibleGame\app\src\main\AndroidManifest.xml:15:9-34
+17        android:largeScreens="true"
+17-->D:\Final Game 1.0\BibleGame\app\src\main\AndroidManifest.xml:14:9-37
+18        android:normalScreens="true"
+18-->D:\Final Game 1.0\BibleGame\app\src\main\AndroidManifest.xml:13:9-37
+19        android:smallScreens="true" />
+19-->D:\Final Game 1.0\BibleGame\app\src\main\AndroidManifest.xml:12:9-36
+20
+21    <application
+21-->D:\Final Game 1.0\BibleGame\app\src\main\AndroidManifest.xml:17:5-113:19
+22        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+22-->[androidx.core:core:1.5.0] C:\Users\ch120505\.gradle\caches\transforms-3\8ec8f7467eebd01e5bf3cdb4f731a422\transformed\core-1.5.0\AndroidManifest.xml:24:18-86
+23        android:clearTaskOnLaunch="true"
+23-->D:\Final Game 1.0\BibleGame\app\src\main\AndroidManifest.xml:20:9-41
+24        android:debuggable="true"
+25        android:extractNativeLibs="false"
+26        android:icon="@drawable/ic_launcher"
+26-->D:\Final Game 1.0\BibleGame\app\src\main\AndroidManifest.xml:18:9-45
+27        android:label="@string/app_name"
+27-->D:\Final Game 1.0\BibleGame\app\src\main\AndroidManifest.xml:21:9-41
+28        android:screenOrientation="portrait"
+28-->D:\Final Game 1.0\BibleGame\app\src\main\AndroidManifest.xml:19:9-45
+29        android:testOnly="true" >
+30        <activity
+30-->D:\Final Game 1.0\BibleGame\app\src\main\AndroidManifest.xml:22:9-35:20
+31            android:name="com.Game.ccmusa.android.Main"
+31-->D:\Final Game 1.0\BibleGame\app\src\main\AndroidManifest.xml:24:13-56
+32            android:clearTaskOnLaunch="true"
+32-->D:\Final Game 1.0\BibleGame\app\src\main\AndroidManifest.xml:27:13-45
+33            android:exported="true"
+33-->D:\Final Game 1.0\BibleGame\app\src\main\AndroidManifest.xml:28:13-36
+34            android:label="@string/app_name"
+34-->D:\Final Game 1.0\BibleGame\app\src\main\AndroidManifest.xml:29:13-45
+35            android:launchMode="singleTask"
+35-->D:\Final Game 1.0\BibleGame\app\src\main\AndroidManifest.xml:26:13-44
+36            android:screenOrientation="portrait" >
+36-->D:\Final Game 1.0\BibleGame\app\src\main\AndroidManifest.xml:25:13-49
+37            <intent-filter>
+37-->D:\Final Game 1.0\BibleGame\app\src\main\AndroidManifest.xml:30:13-34:29
+38                <action android:name="android.intent.action.MAIN" />
+38-->D:\Final Game 1.0\BibleGame\app\src\main\AndroidManifest.xml:31:17-68
+38-->D:\Final Game 1.0\BibleGame\app\src\main\AndroidManifest.xml:31:25-66
+39
+40                <category android:name="android.intent.category.HOME" />
+40-->D:\Final Game 1.0\BibleGame\app\src\main\AndroidManifest.xml:32:17-73
+40-->D:\Final Game 1.0\BibleGame\app\src\main\AndroidManifest.xml:32:27-70
+41                <category android:name="android.intent.category.LAUNCHER" />
+41-->D:\Final Game 1.0\BibleGame\app\src\main\AndroidManifest.xml:33:17-77
+41-->D:\Final Game 1.0\BibleGame\app\src\main\AndroidManifest.xml:33:27-74
+42            </intent-filter>
+43        </activity>
+44        <activity
+44-->D:\Final Game 1.0\BibleGame\app\src\main\AndroidManifest.xml:36:9-40:20
+45            android:name="com.Game.ccmusa.android.About"
+45-->D:\Final Game 1.0\BibleGame\app\src\main\AndroidManifest.xml:37:13-57
+46            android:exported="false"
+46-->D:\Final Game 1.0\BibleGame\app\src\main\AndroidManifest.xml:38:13-37
+47            android:label="@string/about_title"
+47-->D:\Final Game 1.0\BibleGame\app\src\main\AndroidManifest.xml:36:19-54
+48            android:screenOrientation="portrait" >
+48-->D:\Final Game 1.0\BibleGame\app\src\main\AndroidManifest.xml:39:13-49
+49        </activity>
+50        <activity
+50-->D:\Final Game 1.0\BibleGame\app\src\main\AndroidManifest.xml:41:9-46:20
+51            android:name="com.Game.ccmusa.android.Game"
+51-->D:\Final Game 1.0\BibleGame\app\src\main\AndroidManifest.xml:43:13-56
+52            android:exported="false"
+52-->D:\Final Game 1.0\BibleGame\app\src\main\AndroidManifest.xml:44:13-37
+53            android:label="@string/game_title"
+53-->D:\Final Game 1.0\BibleGame\app\src\main\AndroidManifest.xml:41:19-53
+54            android:screenOrientation="portrait"
+54-->D:\Final Game 1.0\BibleGame\app\src\main\AndroidManifest.xml:45:13-49
+55            android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
+55-->D:\Final Game 1.0\BibleGame\app\src\main\AndroidManifest.xml:42:13-69
+56        </activity>
+57        <activity
+57-->D:\Final Game 1.0\BibleGame\app\src\main\AndroidManifest.xml:47:9-50:16
+58            android:name="com.Game.ccmusa.android.GameLevel"
+58-->D:\Final Game 1.0\BibleGame\app\src\main\AndroidManifest.xml:48:13-61
+59            android:label="@string/new_game_title"
+59-->D:\Final Game 1.0\BibleGame\app\src\main\AndroidManifest.xml:47:19-57
+60            android:screenOrientation="portrait" >
+60-->D:\Final Game 1.0\BibleGame\app\src\main\AndroidManifest.xml:49:9-45
+61        </activity>
+62        <activity
+62-->D:\Final Game 1.0\BibleGame\app\src\main\AndroidManifest.xml:51:9-56:20
+63            android:name="com.Game.ccmusa.android.HelpGame"
+63-->D:\Final Game 1.0\BibleGame\app\src\main\AndroidManifest.xml:53:13-60
+64            android:exported="false"
+64-->D:\Final Game 1.0\BibleGame\app\src\main\AndroidManifest.xml:54:13-37
+65            android:label="@string/help_label"
+65-->D:\Final Game 1.0\BibleGame\app\src\main\AndroidManifest.xml:51:19-53
+66            android:screenOrientation="portrait"
+66-->D:\Final Game 1.0\BibleGame\app\src\main\AndroidManifest.xml:55:13-49
+67            android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
+67-->D:\Final Game 1.0\BibleGame\app\src\main\AndroidManifest.xml:52:13-69
+68        </activity>
+69        <activity
+69-->D:\Final Game 1.0\BibleGame\app\src\main\AndroidManifest.xml:57:9-61:20
+70            android:name="com.Game.ccmusa.android.GameTableList"
+70-->D:\Final Game 1.0\BibleGame\app\src\main\AndroidManifest.xml:58:13-65
+71            android:exported="false"
+71-->D:\Final Game 1.0\BibleGame\app\src\main\AndroidManifest.xml:59:13-37
+72            android:label="@string/bible_label"
+72-->D:\Final Game 1.0\BibleGame\app\src\main\AndroidManifest.xml:57:19-54
+73            android:screenOrientation="portrait" >
+73-->D:\Final Game 1.0\BibleGame\app\src\main\AndroidManifest.xml:60:13-49
+74        </activity>
+75        <activity
+75-->D:\Final Game 1.0\BibleGame\app\src\main\AndroidManifest.xml:63:9-67:20
+76            android:name="com.Game.ccmusa.android.Game15"
+76-->D:\Final Game 1.0\BibleGame\app\src\main\AndroidManifest.xml:64:13-58
+77            android:exported="false"
+77-->D:\Final Game 1.0\BibleGame\app\src\main\AndroidManifest.xml:65:13-37
+78            android:label="@string/game_results"
+78-->D:\Final Game 1.0\BibleGame\app\src\main\AndroidManifest.xml:63:19-55
+79            android:screenOrientation="portrait" >
+79-->D:\Final Game 1.0\BibleGame\app\src\main\AndroidManifest.xml:66:13-49
+80        </activity>
+81        <activity
+81-->D:\Final Game 1.0\BibleGame\app\src\main\AndroidManifest.xml:68:9-72:20
+82            android:name="com.Game.ccmusa.android.Game25"
+82-->D:\Final Game 1.0\BibleGame\app\src\main\AndroidManifest.xml:69:13-58
+83            android:exported="false"
+83-->D:\Final Game 1.0\BibleGame\app\src\main\AndroidManifest.xml:70:13-37
+84            android:label="@string/game_results"
+84-->D:\Final Game 1.0\BibleGame\app\src\main\AndroidManifest.xml:68:19-55
+85            android:screenOrientation="portrait" >
+85-->D:\Final Game 1.0\BibleGame\app\src\main\AndroidManifest.xml:71:13-49
+86        </activity>
+87        <activity
+87-->D:\Final Game 1.0\BibleGame\app\src\main\AndroidManifest.xml:73:9-77:20
+88            android:name="com.Game.ccmusa.android.DiffTableList"
+88-->D:\Final Game 1.0\BibleGame\app\src\main\AndroidManifest.xml:74:13-65
+89            android:exported="false"
+89-->D:\Final Game 1.0\BibleGame\app\src\main\AndroidManifest.xml:75:13-37
+90            android:label="@string/game_results"
+90-->D:\Final Game 1.0\BibleGame\app\src\main\AndroidManifest.xml:73:19-55
+91            android:screenOrientation="portrait" >
+91-->D:\Final Game 1.0\BibleGame\app\src\main\AndroidManifest.xml:76:13-49
+92        </activity>
+93        <activity
+93-->D:\Final Game 1.0\BibleGame\app\src\main\AndroidManifest.xml:78:9-82:20
+94            android:name="com.Game.ccmusa.android.DifficultGames"
+94-->D:\Final Game 1.0\BibleGame\app\src\main\AndroidManifest.xml:79:13-66
+95            android:exported="false"
+95-->D:\Final Game 1.0\BibleGame\app\src\main\AndroidManifest.xml:80:13-37
+96            android:label="@string/game_results"
+96-->D:\Final Game 1.0\BibleGame\app\src\main\AndroidManifest.xml:78:19-55
+97            android:screenOrientation="portrait" >
+97-->D:\Final Game 1.0\BibleGame\app\src\main\AndroidManifest.xml:81:13-49
+98        </activity>
+99        <activity
+99-->D:\Final Game 1.0\BibleGame\app\src\main\AndroidManifest.xml:83:9-87:20
+100            android:name="com.Game.ccmusa.android.AllResults"
+100-->D:\Final Game 1.0\BibleGame\app\src\main\AndroidManifest.xml:84:13-62
+101            android:exported="false"
+101-->D:\Final Game 1.0\BibleGame\app\src\main\AndroidManifest.xml:85:13-37
+102            android:label="@string/game_results"
+102-->D:\Final Game 1.0\BibleGame\app\src\main\AndroidManifest.xml:83:19-55
+103            android:screenOrientation="portrait" >
+103-->D:\Final Game 1.0\BibleGame\app\src\main\AndroidManifest.xml:86:13-49
+104        </activity>
+105        <activity
+105-->D:\Final Game 1.0\BibleGame\app\src\main\AndroidManifest.xml:88:9-92:20
+106            android:name="com.Game.ccmusa.android.ChooseGridList"
+106-->D:\Final Game 1.0\BibleGame\app\src\main\AndroidManifest.xml:89:13-66
+107            android:exported="false"
+107-->D:\Final Game 1.0\BibleGame\app\src\main\AndroidManifest.xml:90:13-37
+108            android:label="@string/easy_label"
+108-->D:\Final Game 1.0\BibleGame\app\src\main\AndroidManifest.xml:88:19-53
+109            android:screenOrientation="portrait" >
+109-->D:\Final Game 1.0\BibleGame\app\src\main\AndroidManifest.xml:91:13-49
+110        </activity>
+111        <activity
+111-->D:\Final Game 1.0\BibleGame\app\src\main\AndroidManifest.xml:93:9-97:20
+112            android:name="com.Game.ccmusa.android.GameChooseList"
+112-->D:\Final Game 1.0\BibleGame\app\src\main\AndroidManifest.xml:94:13-66
+113            android:exported="false"
+113-->D:\Final Game 1.0\BibleGame\app\src\main\AndroidManifest.xml:95:13-37
+114            android:label="@string/easy_label"
+114-->D:\Final Game 1.0\BibleGame\app\src\main\AndroidManifest.xml:93:19-53
+115            android:screenOrientation="portrait" >
+115-->D:\Final Game 1.0\BibleGame\app\src\main\AndroidManifest.xml:96:13-49
+116        </activity>
+117        <activity
+117-->D:\Final Game 1.0\BibleGame\app\src\main\AndroidManifest.xml:98:9-102:20
+118            android:name="com.Game.ccmusa.android.GameYandNList"
+118-->D:\Final Game 1.0\BibleGame\app\src\main\AndroidManifest.xml:99:13-65
+119            android:exported="false"
+119-->D:\Final Game 1.0\BibleGame\app\src\main\AndroidManifest.xml:100:13-37
+120            android:label="@string/medium_label"
+120-->D:\Final Game 1.0\BibleGame\app\src\main\AndroidManifest.xml:98:19-55
+121            android:screenOrientation="portrait" >
+121-->D:\Final Game 1.0\BibleGame\app\src\main\AndroidManifest.xml:101:13-49
+122        </activity>
+123        <activity
+123-->D:\Final Game 1.0\BibleGame\app\src\main\AndroidManifest.xml:103:9-107:20
+124            android:name="com.Game.ccmusa.android.YandNGridList"
+124-->D:\Final Game 1.0\BibleGame\app\src\main\AndroidManifest.xml:104:13-65
+125            android:exported="false"
+125-->D:\Final Game 1.0\BibleGame\app\src\main\AndroidManifest.xml:105:13-37
+126            android:label="@string/medium_label"
+126-->D:\Final Game 1.0\BibleGame\app\src\main\AndroidManifest.xml:103:19-55
+127            android:screenOrientation="portrait" >
+127-->D:\Final Game 1.0\BibleGame\app\src\main\AndroidManifest.xml:106:13-49
+128        </activity>
+129
+130        <meta-data
+130-->D:\Final Game 1.0\BibleGame\app\src\main\AndroidManifest.xml:109:9-111:57
+131            android:name="preloaded_fonts"
+131-->D:\Final Game 1.0\BibleGame\app\src\main\AndroidManifest.xml:110:13-43
+132            android:resource="@array/preloaded_fonts" />
+132-->D:\Final Game 1.0\BibleGame\app\src\main\AndroidManifest.xml:111:13-54
+133
+134        <activity
+134-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\ch120505\.gradle\caches\transforms-3\ec11a17c1ee083d7690597e2bb4f14de\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+135            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+135-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\ch120505\.gradle\caches\transforms-3\ec11a17c1ee083d7690597e2bb4f14de\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+136            android:exported="false"
+136-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\ch120505\.gradle\caches\transforms-3\ec11a17c1ee083d7690597e2bb4f14de\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+137            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+137-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\ch120505\.gradle\caches\transforms-3\ec11a17c1ee083d7690597e2bb4f14de\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+138
+139        <meta-data
+139-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\ch120505\.gradle\caches\transforms-3\063e4fba8b40cbdd9a2784b0c8298e35\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:21:9-23:69
+140            android:name="com.google.android.gms.version"
+140-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\ch120505\.gradle\caches\transforms-3\063e4fba8b40cbdd9a2784b0c8298e35\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:22:13-58
+141            android:value="@integer/google_play_services_version" />
+141-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\ch120505\.gradle\caches\transforms-3\063e4fba8b40cbdd9a2784b0c8298e35\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:23:13-66
+142    </application>
+143
+144</manifest>

@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+   >
+
+
+    <ImageView
+        android:id="@+id/Image2"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="50dp"
+        android:layout_marginTop="74dp"
+        android:src="@mipmap/check" />
+
+    <TextView
+        android:id="@+id/textOk"
+        android:layout_width="213dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="130dp"
+        android:layout_marginTop="70dp"
+        android:text="全部答對經節:"
+        android:textSize="20sp" />
+
+    <ImageView
+        android:id="@+id/imageError"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="50dp"
+        android:layout_marginTop="107dp"
+        android:src="@mipmap/err" />
+
+    <TextView
+        android:id="@+id/textError"
+        android:layout_width="212dp"
+        android:layout_height="38dp"
+        android:layout_marginStart="130dp"
+        android:layout_marginTop="100dp"
+        android:text="答錯四個字經節:"
+        android:textSize="20sp" />
+
+    <ImageView
+        android:id="@+id/imageErrAll"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="50dp"
+        android:layout_marginTop="135dp"
+        android:src="@mipmap/allerr" />
+
+    <TextView
+        android:id="@+id/textErrAll"
+        android:layout_width="214dp"
+        android:layout_height="41dp"
+        android:layout_marginStart="130dp"
+        android:layout_marginTop="130dp"
+        android:text="答錯八個字經節:"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/textTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:text="容易程度"
+        android:textColor="@color/puzzle_games"
+        android:textSize="30sp" />
+
+    <TextView
+        android:id="@+id/textTotal"
+        android:layout_width="217dp"
+        android:layout_height="37dp"
+        android:layout_marginStart="130dp"
+        android:layout_marginTop="155dp"
+        android:text="尚未完的經節："
+        android:textSize="20sp" />
+
+    <ImageView
+        android:id="@+id/mimageOk"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="50dp"
+        android:layout_marginTop="240dp"
+        android:src="@mipmap/check" />
+
+    <TextView
+        android:id="@+id/mtextOk"
+        android:layout_width="209dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="130dp"
+        android:layout_marginTop="240dp"
+        android:text="全部答對經節:"
+        android:textSize="20sp" />
+
+    <ImageView
+        android:id="@+id/mimageErr"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="50dp"
+        android:layout_marginTop="280dp"
+        android:src="@mipmap/err" />
+
+    <TextView
+        android:id="@+id/mtextError"
+        android:layout_width="205dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="130dp"
+        android:layout_marginTop="275dp"
+        android:text="答錯四個字經節:"
+        android:textSize="20sp" />
+
+    <ImageView
+        android:id="@+id/mimageErrAll"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="50dp"
+        android:layout_marginTop="310dp"
+        android:contentDescription="Carl"
+        android:src="@mipmap/allerr" />
+
+    <TextView
+        android:id="@+id/mtextErrAll"
+        android:layout_width="204dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="130dp"
+        android:layout_marginTop="306dp"
+        android:text="答錯八個字經節:"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/mtextTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="190dp"
+        android:text="較難程度"
+        android:textColor="@color/puzzle_games"
+        android:textSize="30sp" />
+
+    <TextView
+        android:id="@+id/mtextTotal"
+        android:layout_width="359dp"
+        android:layout_height="34dp"
+        android:layout_marginStart="130dp"
+        android:layout_marginTop="340dp"
+        android:text="尚未完的經節："
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/htextTile"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="390dp"
+        android:text="更難程度"
+        android:textColor="@color/puzzle_games"
+        android:textSize="30sp" />
+
+    <ImageView
+        android:id="@+id/imageView24"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="50dp"
+        android:layout_marginTop="440dp"
+        android:src="@mipmap/check" />
+
+    <TextView
+        android:id="@+id/htextOk"
+
+        android:layout_width="213dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="130dp"
+        android:layout_marginTop="440dp"
+        android:text="1111111"
+        android:textSize="20sp" />
+
+    <ImageView
+        android:id="@+id/imageView25"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="50dp"
+        android:layout_marginTop="468dp"
+        android:src="@mipmap/err" />
+
+    <TextView
+        android:id="@+id/htextError"
+        android:layout_width="213dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="130dp"
+        android:layout_marginTop="468dp"
+        android:text="4444444"
+        android:textSize="20sp" />
+
+    <ImageView
+        android:id="@+id/imageView26"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="50dp"
+        android:layout_marginTop="500dp"
+        android:src="@mipmap/allerr" />
+
+    <TextView
+        android:id="@+id/htextover"
+        android:layout_width="213dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="130dp"
+        android:layout_marginTop="490dp"
+        android:text="88888"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/htextTotal"
+        android:layout_width="213dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="130dp"
+        android:layout_marginTop="520dp"
+        android:text="9999999"
+        android:textSize="20sp" />
+</RelativeLayout>

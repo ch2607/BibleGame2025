@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:tag="layout-largechoosexx"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/t1"
+            android:layout_width="371dp"
+            android:layout_height="42dp"
+            android:layout_marginTop="30dp"
+            android:text="T1"
+            android:textSize="28sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/t2"
+            android:layout_width="188dp"
+            android:layout_height="57dp"
+            android:layout_marginTop="25dp"
+            android:text="T2"
+            android:textSize="28sp"
+            app:layout_constraintBottom_toTopOf="@+id/image"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/t1" />
+
+        <ImageView
+            android:id="@+id/image"
+            android:layout_width="1262dp"
+            android:layout_height="410dp"
+            android:layout_marginTop="12dp"
+            android:layout_marginEnd="16dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/t2"
+            app:srcCompat="@drawable/mchoose" />
+
+        <Button
+            android:id="@+id/Button1"
+            android:layout_width="203dp"
+            android:layout_height="69dp"
+            android:layout_marginTop="4dp"
+            android:layout_weight="1"
+            android:background="#2196F3"
+            android:fontFamily="casual"
+            android:textColor="#fff"
+            app:layout_constraintTop_toBottomOf="@+id/image"
+            tools:ignore="MissingConstraints,SpeakableTextPresentCheck"
+            tools:layout_editor_absoluteX="7dp" />
+
+        <Button
+            android:id="@+id/Button2"
+            android:layout_width="193dp"
+            android:layout_height="68dp"
+            android:layout_marginTop="4dp"
+            android:layout_weight="1"
+            android:background="#2196F3"
+            android:fontFamily="casual"
+            android:textColor="#fff"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.498"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/image"
+            tools:ignore="SpeakableTextPresentCheck" />
+
+        <Button
+            android:id="@+id/Button3"
+            android:layout_width="197dp"
+            android:layout_height="64dp"
+            android:layout_marginTop="4dp"
+            android:layout_marginEnd="16dp"
+            android:layout_weight="1"
+            android:background="#2196F3"
+            android:fontFamily="casual"
+            android:textColor="#fff"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/image"
+            tools:ignore="SpeakableTextPresentCheck" />
+
+        <TextView
+            android:id="@+id/t3"
+            android:layout_width="348dp"
+            android:layout_height="221dp"
+            android:layout_marginTop="164dp"
+            android:text="Quitions"
+            android:textSize="28sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.564"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="@+id/t2" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

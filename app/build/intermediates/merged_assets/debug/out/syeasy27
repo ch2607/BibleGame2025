@@ -1,0 +1,104 @@
+﻿{
+   "Bible": [
+    {
+          "Num": "1",
+                  "Title": "在启示录中，一把两刃的剑从耶稣口中出来",
+                  "kind" :  "sticker",
+                  "isTrue": false,
+                  "Answer":"错",
+                  "Select": "None",
+                  "Verse": "16. 他右手拿着七星，从他口中出来一把两刃的利剑；面貌如同烈日放。",
+                  "VerseNo": "启示录 1:16"
+              },
+              {
+                  "Num": "2",
+                  "Title": "十诫被保存在约柜中",
+                  "kind" :  "sticker",
+                  "isTrue": true,
+                  "Answer":"对",
+                  "Select": "None",
+                  "Verse": "5. 我转身下山，将这版放在我所做的柜中，现今还在那里，正如耶和华所吩我的。",
+                  "VerseNo": "申命记10:5 "
+              },
+              {
+                  "Num": "3",
+                  "Title": "所罗门说活着的蚂蚁胜过死去的狮子。",
+                  "kind" :  "sticker",
+                  "isTrue": true,
+                  "Answer":"对",
+                  "Select": "None",
+                  "Verse": "4. 与一切活人相连的，那人还有指望，因为活着的狗比死了的狮子更强。",
+                  "VerseNo": "传道书 9:4 "
+                  },
+              {
+                  "Num": "4",
+                  "Title": "耶稣让山羊从悬崖上跑到海里淹死",
+                  "kind" :  "sticker",
+                  "isTrue": false,
+                  "Answer":"错",
+                  "Select": "None",
+                  "Verse": "32, 耶稣说：去吧！鬼就出来，进入猪群。全群忽然闯下山崖，投在海里淹死.",
+                  "VerseNo": "马太福音8:32"
+              },
+              {
+                  "Num": "5",
+                  "Title": "贪财是万恶之根",
+                  "kind" :  "sticker",
+                  "isTrue": true,
+                  "Answer":"对",
+                  "Select": "None",
+                  "Verse": "10. 贪财是万恶之根。有人贪恋钱财，就被引诱离了真道，用许多愁苦把自己刺透了。",
+                  "VerseNo": "提摩太前书音 6:10"
+              },
+              {
+                  "Num": "6",
+                  "Title": "新约有四福音",
+                  "kind" :  "sticker",
+                  "isTrue": true,
+                  "Answer":"对",
+                  "Select": "None",
+                  "Verse": "1. 马太福音 2. 马可福音 3.路加福音 4. 约翰福音  ",
+                  "VerseNo": "1. 马太福音 2. 马可福音 3.路加福音 4. 约翰福音"
+              },
+              {
+                  "Num": "7",
+                  "Title": "巴拿巴是一位银匠，他製造亚底米神银龛。",
+                  "kind" :  "sticker",
+                  "isTrue": false,
+                  "Answer":"错",
+                  "Select": "None",
+                  "Verse": "24. 有一个名叫底米丢，是製造亚底米神银龛的，他使这样手艺人生意发达。",
+                  "VerseNo": "使徒行传 19:24 "
+              },
+              {
+                  "Num": "8",
+                  "Title": "约拿单将手杖的末端浸入蜂蜜中。",
+                  "kind" :  "sticker",
+                  "isTrue": true,
+                  "Answer":"对",
+                  "Select": "None",
+                  "Verse": "27. 约拿单没有听见他父亲叫百姓起誓，所以伸手中的杖，用杖头蘸在蜂房裏，转手送入口内，眼睛就明亮了。",
+                  "VerseNo": "撒母耳记上 14:27"
+              },
+              {
+                  "Num": "9",
+                  "Title": "摩西拒绝被称为法老女儿之子。",
+                  "kind" :  "sticker",
+                  "isTrue": true,
+                  "Answer":"对",
+                  "Select": "None",
+                  "Verse": "24.  摩西因着信，长大了就不肯称为法老女儿之子。",
+                  "VerseNo": "希伯来书 11:24"
+              },
+              {
+                  "Num": "10",
+                  "Title":"叶忒罗也被称为流珥。",
+                  "kind" :  "sticker",
+                  "isTrue": true,
+                  "Answer":"对",
+                  "Select": "None",
+                  "Verse": "18. 他们来到父亲流珥那里；他说：今日你们为何来得这麽快呢﹖",
+                  "VerseNo": "出埃及记 2:18 "
+      }
+     ]
+ }

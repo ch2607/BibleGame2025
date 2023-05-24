@@ -1,0 +1,104 @@
+﻿{
+   "Bible": [
+    {
+            "Num": "1",
+            "Title": "上帝派了兩個天使去摧毀所多瑪和蛾摩拉的城市。",
+            "kind" :  "sticker",
+            "isTrue": true,
+            "Answer":"對",
+            "Select": "None",
+            "Verse": "13. 我們要毀滅這地方；因為城內罪惡的聲音在耶和華面前甚大，耶和華差我們來，要毀滅這地方。",
+            "VerseNo": "創世記 19:13 "
+        },
+        {
+            "Num": "2",
+            "Title": "夏甲給亞伯拉罕生了一個孩子",
+            "kind" :  "sticker",
+            "isTrue": true,
+            "Answer":"對",
+            "Select": "None",
+            "Verse": "15. 後來夏甲給亞伯蘭生了一個兒子；亞伯蘭給他起名叫以實瑪利。",
+            "VerseNo": "創世記 16:15"
+        },
+        {
+            "Num": "3",
+            "Title": "便雅憫是雅各最小的兒子。",
+            "kind" :  "sticker",
+            "isTrue": true,
+            "Answer":"對",
+            "Select": "None",
+            "Verse": "29. 約瑟舉目看見他同母的兄弟便雅憫，就說：你們向我所說那頂小的兄弟就是這位嗎？又說：小兒啊，願神賜恩給你！",
+            "VerseNo": "創世記 43:29 "
+        },
+        {
+            "Num": "4",
+            "Title": "雅各布和以掃我們是雙胞胎。",
+            "kind" :  "sticker",
+            "isTrue": true,
+            "Answer":"對",
+            "Select": "None",
+            "Verse": "隨後又生了以掃的兄弟，手抓住以掃的腳跟，因此給他起名叫雅各【就是抓住的意思】。利百加生下兩個兒子的時候，以撒年正六十歲。",
+            "VerseNo": "創世記 25:26 "
+        },
+        {
+            "Num": "5",
+            "Title": "以撒出賣長子生分他與生俱來的權利",
+            "kind" :  "sticker",
+            "isTrue": false,
+            "Answer":"錯",
+            "Select": "None",
+            "Verse": "33. 雅各說：你今日對我起誓吧。以掃就對他起了誓，把長子的名分賣給雅各。34. 於是雅各將餅和紅豆湯給了以掃，以掃吃了喝了，便起來走了。這就是輕看了他長子的名分",
+            "VerseNo": "創世記 25:32‭-34  "
+        },
+        {
+            "Num": "6",
+            "Title": "約瑟被賣了二十塊銀子",
+            "kind" :  "sticker",
+            "isTrue": true,
+            "Answer":"對",
+            "Select": "None",
+            "Verse": "28. 有些米甸的商人從那裏經過，哥哥們就把約瑟從坑裏拉上來，講定二十舍客勒銀子，把約瑟賣給以實瑪利人。他們就把約瑟帶到埃及去了。",
+            "VerseNo": "創世記 37:28  "
+        },
+        {
+            "Num": "7",
+            "Title": "上帝在第二天創造了光。",
+            "kind" :  "sticker",
+            "isTrue": false,
+            "Answer":"錯",
+            "Select": "None",
+            "Verse": "3. 神說：要有光，就有了光。4. 神看光是好的，就把光暗分開了。5. 神稱光為晝，稱暗為夜。有晚上，有早晨，這是頭一日。",
+            "VerseNo": "創世記1:3-5 "
+        },
+      {
+          "Num": "8",
+          "Title": "以撒是拉結和利亞的父親.",
+          "kind" :  "sticker",
+          "isTrue": false,
+          "Answer":"錯",
+          "Select": "None",
+          "Verse": "16. 拉班有兩個女兒，大的名叫利亞，小的名叫拉結。",
+          "VerseNo": "創世記 29:16  "
+      },
+      {
+          "Num": "9",
+          "Title": "亞伯拉罕和撒拉的兒子名叫雅各",
+          "kind" :  "sticker",
+          "isTrue": false,
+          "Answer":"錯",
+          "Select": "None",
+          "Verse": "3. 亞伯拉罕給撒拉所生的兒子起名叫以撒",
+          "VerseNo": "創世記 21:3  "
+      },
+      {
+             "Num": "10",
+              "Title": "亞伯殺了他的兄弟該隱",
+              "kind" :  "sticker",
+              "isTrue": false,
+              "Answer":"錯",
+              "Select": "None",
+              "Verse": "8. 該隱與他兄弟亞伯說話；二人正在田間。該隱起來打他兄弟亞伯，把他殺。",
+              "VerseNo": "創世記 4:8  "
+    }
+     ]
+ }

@@ -1,0 +1,105 @@
+﻿{
+   "Bible": [
+    {
+        "Num": "1",
+        "Title": "以撒是亞伯拉罕的第一個兒子。",
+        "kind" :  "sticker",
+        "isTrue": true,
+        "Answer":"對",
+        "Select": "None",
+        "Verse": "當亞伯拉罕年老的時候，撒拉懷了孕；到上帝所說的日期，就給亞伯拉罕生了一個兒子。亞伯拉罕給撒拉所生的兒子起名叫以撒。",
+        "VerseNo": "創世記21:2-3 "
+    },
+    {
+        "Num": "2",
+        "Title": "含、閃和雅弗是挪亞的三個兒子",
+        "kind" :  "sticker",
+        "isTrue": true,
+        "Answer":"對",
+        "Select": "None",
+        "Verse": "挪亞五百歲生了閃、含、雅弗。",
+        "VerseNo": "創世記5:32 "
+    },
+    {
+        "Num": "3",
+        "Title": "亞當造挪亞方舟",
+        "kind" :  "sticker",
+        "isTrue": false,
+        "Answer":"錯",
+        "Select": "None",
+        "Verse":"13. 上帝就對挪亞說：「凡有血氣的人，他的盡頭已經來到我面前；因為地上滿了他們的強暴，我要把他們和地一併毀滅。14.你要用歌斐木造一隻方舟，分一間一間地造，裏外抹上松香。",
+        "VerseNo": "創世記 6:13-14"
+    },
+  {
+      "Num": "4",
+      "Title": "摩西殺死一個埃及人後逃往米甸",
+      "kind" :  "sticker",
+      "isTrue": true,
+      "Answer":"對",
+      "Select": "None",
+      "Verse": "法老聽見這事，就想殺摩西，但摩西躲避法老，逃往米甸地居住",
+      "VerseNo": "出埃及記2:15"
+  },
+  {
+      "Num": "5",
+      "Title": "神造人是照著神的形象",
+      "kind" :  "sticker",
+      "isTrue": true,
+      "Answer":"對",
+      "Select": "None",
+      "Verse":"神說：我們要照著我們的形像、按著我們的樣式造人，使他們管理海裡的魚、空中的鳥、地上的牲畜，和全地，並地上所爬的一切昆蟲。",
+      "VerseNo": "創世記1:26 "
+  },
+  {
+      "Num": "6",
+      "Title": "上帝用塵土創造夏娃?",
+      "kind" :  "sticker",
+      "isTrue": false,
+      "Answer":"錯",
+      "Select": "None",
+      "Verse":"22. 耶和華神就用那人身上所取的肋骨造成一個女人，領他到那人跟前。",
+      "VerseNo": "創世記 2:22 "
+  },
+  {
+      "Num": "7",
+      "Title": "拿弗他利被哥哥扔進井裡。",
+      "kind" :  "sticker",
+      "isTrue": false,
+      "Answer":"錯",
+      "Select": "None",
+      "Verse": "23. 約瑟到了他哥哥們那裡，他們就剝了他的外衣，就是他穿的那件彩衣，24. 把他丟在坑裡；那坑是空的，裡頭沒有水。",
+      "VerseNo": "創世記37:23-24 "
+  },
+  {
+      "Num": "8",
+      "Title": "埃及的 10 場瘟疫之一是麻風病",
+      "kind" :  "sticker",
+      "isTrue": false,
+      "Answer":"錯",
+      "Select": "None",
+      "Verse": "10 災我們是以下 1. 血 2. 青蛙 3. 蝨子或蚊子 4. 蒼蠅 5. 牲畜 6. 瘡 7. 大廳 8. 蝗蟲 9. 黑暗 10. 長子之死。",
+      "VerseNo": "創世記"
+  },
+  {
+      "Num": "9",
+      "Title": "起初地是空虛混沌。",
+      "kind" :  "sticker",
+      "isTrue": false,
+      "Answer":"錯",
+      "Select": "None",
+      "Verse": "1. 起初，神創造天地。2. 地是空虛混沌，淵面黑暗；神的靈運行在水面上。",
+      "VerseNo": "創世記 1:1-2 "
+  },
+  
+ {
+     "Num": "10",
+     "Title": "約瑟在埃及的主人是波提乏.",
+     "kind" :  "sticker",
+     "isTrue": true,
+     "Answer":"對",
+     "Select": "None",
+     "Verse": "1. 約瑟被帶下埃及去。有一個埃及人，是法老的內臣─護衛長波提乏，從那些帶下他來的以實瑪利人手下買了他去。2. 約瑟住在他主人埃及人的家中，耶和華與他同在，他就百事順利。",
+     "VerseNo": "創世記39:1-2"
+    }
+     ]
+ }

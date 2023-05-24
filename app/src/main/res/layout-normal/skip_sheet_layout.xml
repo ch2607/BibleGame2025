@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:gravity="center_horizontal"
+    android:tag="normal"
+    android:orientation="vertical"
+    android:background="@color/ligh_green"
+    android:padding="16dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/ligh_green"
+        android:text="正確答案"
+        android:textColor="@color/red"
+        android:textSize="25sp" />
+
+    <TextView
+        android:id="@+id/bible_verse"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/ligh_green"
+        android:text=""
+        android:textSize="25sp" />
+
+    <TextView
+        android:id="@+id/bible_no"
+        android:layout_width="match_parent"
+        android:layout_height="159dp"
+        android:background="@color/ligh_green"
+        android:text=""
+        android:textSize="25sp" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+         />
+
+
+    <Button
+        android:id="@+id/button"
+        style="@style/sbutton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="15dp"
+        android:gravity="center"
+        android:padding="15dp"
+        android:text="知道了"
+        android:textSize="16dp" />
+
+
+
+</LinearLayout>

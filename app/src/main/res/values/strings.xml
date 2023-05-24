@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World</string>
+    <string name="app_name">新聖經填字遊戲</string>
+    <string name="main_title">新聖經填字遊戲</string>
+    <string name="ready_title">遊戲開始</string>
+    <string name="continue_label">繼續</string>
+    <string name="new_game_label">新遊戲</string>
+    <string name="help_label">遊戲玩法</string>
+    <string name="about_label">關於新聖經填字遊戲</string>
+    <string name="exit_label">離開</string>
+    <string name="about_title">關於「新聖經填字遊戲」</string>
+    <string name="today_verse">今日經文</string>
+    <string name="game_results">遊戲結果</string>
+    <string name="g_results">看結果</string>
+    <string name="g_know">知道了</string>
+    <string name="g_skip">跳過</string>
+    <string name="page1">如果要用簡體字請在右上方有三個點按一下就會\n出現簡體中文、繁體中文. \n參考看下面圖片</string>
+    <string name="about_text">\n\n「新聖經填字遊戲」（2.0版) 乃「聖經填字遊戲」改良版。\n
+    \n
+    本遊戲中的經文採用中文和合本聖經，遊戲目的是幫助你熟悉經文，進而存記心中，成為你腳前的燈、路上的光。\n
+    \n\n
+    中國信徒佈道會出版（2019年)\n\n\感謝：鄭月娥姊妹提供聖經經節。\n\n\感謝：李緯華和陸逸庭安卓系統測試。</string>
+     <string name="ready_text">\
+開始、記住下面答案,準備好了、請按返回</string>
+    <string name="help_text">\
+開始、記住下面答案,準備好了、請按返回</string>
+    <string name="settings_simplified">简体中文</string>
+    <string name="play_game2">容易和較難遊戲玩法</string>
+    <string name="settings_tranditional">繁體中文</string>
+    <string name="settings_title">新聖經填字遊戲 settings</string>
+    <string name="settings_shortcut">s</string>
+    <string name="setting_music">音樂</string>
+    <string name="reset_title">重新設定</string>
+    <string name="language_summary">空格代表简体中文</string>
+    <string name="hints_title">繁體中文</string>
+    <string name="hints_summary">繁體中文</string>
+    <string name="new_game_title">選擇遊戲</string>
+    <string name="bible_label">聖經經節</string>
+    <string name="game_easy">容易和較難參考看下面圖片如何玩法</string>
+    <string name="easy_label">選擇題</string>
+    <string name="medium_label">是非題</string>
+<string name="game_hard">參考看下面圖片如何玩法</string>
+    <string name="hard_label">填空題</string>
+
+    <string name="game_title">遊戲</string>
+    <string name="reterror">Error</string>
+    <string name="no_moves_label">No moves</string>
+    <string name="keypad_title">Keypad</string>
+    <string name="playmore_title">遊戲結果</string>
+    <string name="gameover_title">遊戲終止</string>
+    <string name="game_value">對</string>
+    <string name="game_time">time</string>
+    <string name="game_error">錯</string>
+    <string name="bible_verse">bible_verse </string>
+    <string name="ready_id">ready id </string>
+    <string name="MainMeue">Main menu</string>
+    <string name="ReadyMenu">Ready Menu</string>
+    <string name="Main_label">"首頁</string>
+    <string name="Ready_label">"返回</string>
+
+    <string name="About">關於遊戲"</string>
+    <string name="reset_summary">Reset"</string>
+
+    <string name="bible">bible</string>
+    <string name="help">遊戲玩法</string>
+    <string name="contin">繼續</string>
+    <string name="infor">關於新聖經填字遊戲</string>
+    <string name="games">新遊戲</string>
+    <string name="good">您好棒啊！答對了</string>
+    <string name="bad">對不起、你答錯了</string>
+    <dimen name="activity_horizontal_margin">10dp</dimen>
+    <dimen name="activity_vertical_margin">150dp</dimen>
+
+</resources>

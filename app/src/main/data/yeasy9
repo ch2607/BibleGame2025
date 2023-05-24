@@ -1,0 +1,104 @@
+﻿{
+   "Bible": [
+    {
+          "Num": "1",
+          "Title": "歌利亞每天早上和晚上都向以色列人挑戰，持續了 7天。",
+          "kind" :  "sticker",
+          "isTrue": false,
+          "Answer":"錯",
+          "Select": "None",
+          "Verse": "16. 那非利士人早晚都出來站著，如此四十日。。",
+          "VerseNo": "撒母耳記上 17: 16"
+      },
+      {
+          "Num": "2",
+          "Title": "安得烈帶著一個男孩帶著 5個餅和 2條魚來見耶穌。",
+          "kind" :  "sticker",
+          "isTrue": true,
+          "Answer":"對",
+          "Select": "None",
+          "Verse": "8. 有一個門徒，就是西門彼得的兄弟安得烈，對耶穌說：9. 在這裡有一個孩童，帶著五個大麥餅、兩條魚，只是分給這許多人還？ ",
+          "VerseNo": "約翰福音 6:8-9 "
+      },
+      {
+          "Num": "3",
+          "Title": "拉撒路被耶穌救活。",
+          "kind" :  "sticker",
+          "isTrue": true,
+          "Answer":"對",
+          "Select": "None",
+          "Verse": "43.說了這話，就大聲呼叫說：拉撒路出來！44. 那死人就出來了，手腳裹著布，臉上包著手巾。耶穌對他們說，解開，叫他走！",
+          "VerseNo": "約翰福音 11:43-44 "
+      },
+      {
+          "Num": "4",
+          "Title": "施洗約翰被耶穌埋葬",
+          "kind" :  "sticker",
+          "isTrue": false,
+          "Answer":"錯",
+          "Select": "None",
+          "Verse": "12. 約翰的門徒來，把屍首領去埋葬了，就去告訴耶穌。",
+          "VerseNo": "馬太福音 14：12 "
+      },
+      {
+          "Num": "5",
+          "Title": "耶穌說，如果它會使你陷入困境，就砍下你的手。",
+          "kind" :  "sticker",
+          "isTrue": true,
+          "Answer":"對",
+          "Select": "None",
+          "Verse": "30. 若是右手叫你跌倒，就砍下來丟掉，寧可失去百體中的一體，不叫全身下入地獄。",
+          "VerseNo": "馬太福音 5：30 "
+      },
+      {
+          "Num": "6",
+          "Title": "彼得親耶穌的嘴。",
+          "kind" :  "sticker",
+          "isTrue": false,
+          "Answer":"錯",
+          "Select": "None",
+          "Verse": "48. 耶穌對他說：猶大！你用親嘴的暗號賣人子嗎﹖",
+          "VerseNo": "路加福音 22:48 "
+      },
+      {
+          "Num": "7",
+          "Title": "使徒保羅是個漁夫",
+          "kind" :  "sticker",
+          "isTrue": false,
+          "Answer":"錯",
+          "Select": "None",
+          "Verse": "1. 這事以後，保羅離了雅典，來到哥林多。2. 遇見一個猶太人，名叫亞居拉，他生在本都；因為革老丟命猶太人都離開羅馬，新近帶著妻百基拉，從義大利來。保羅就投奔了他們。3. 他們本是製造帳棚為業。保羅因與他們同業，就和他們同住做工。 ",
+          "VerseNo": "使徒行傳18：1-3 "
+      },
+      {
+          "Num": "8",
+          "Title": "只有彼得門徒在水面行走",
+          "kind" :  "sticker",
+          "isTrue": true,
+          "Answer":"對",
+          "Select": "None",
+          "Verse": " 28.「彼得說：主，如果是你，請叫我從水面上走到你那裡去。",
+          "VerseNo": "馬太福音 14;28"
+      },
+      {
+          "Num": "9",
+          "Title": "啟示錄的作者是約翰。",
+          "kind" :  "sticker",
+          "isTrue": true,
+          "Answer":"對",
+          "Select": "None",
+          "Verse": "1. 耶穌基督的啟示，就是神賜給他，叫他將必要快成的事指示他的眾僕人。他就差遣使者曉諭他的僕人約翰。",
+          "VerseNo": "啟示錄 1：1 "
+      },
+      {
+          "Num": "10",
+          "Title": "耶穌說窄門通向永生",
+          "kind" :  "sticker",
+          "isTrue": true,
+          "Answer":"對",
+          "Select": "None",
+          "Verse": "14. 引到永生，那門是窄的，路是小的，找著的人也少。 ",
+          "VerseNo": "馬太福音7：14"
+      }
+     ]
+ }

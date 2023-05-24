@@ -1,0 +1,104 @@
+﻿{
+   "Bible": [
+    {
+            "Num": "1",
+            "Title": "耶穌在第三天復活。",
+            "kind" :  "sticker",
+            "isTrue": true,
+            "Answer":"對",
+            "Select": "None",
+            "Verse": "46. 又對他們說：照經上所寫的，基督必受害，第三日從死裡復活.",
+            "VerseNo": "路加福音24:46"
+        },
+      {
+          "Num": "2",
+          "Title": "所羅門建造聖殿。",
+          "kind" :  "sticker",
+          "isTrue": true,
+          "Answer":"對",
+          "Select": "None",
+          "Verse": "2. 所羅門王為耶和華所建的殿，長六十肘，寬二十肘，高三十肘。",
+          "VerseNo": "列王紀上 6:2 "
+      },
+      {
+          "Num": "3",
+          "Title": "撒非喇的丈夫是亞拿尼亞。",
+          "kind" :  "sticker",
+          "isTrue": true,
+          "Answer":"對",
+          "Select": "None",
+          "Verse": "1. 有一個人，名叫亞拿尼亞，同他的妻子撒非喇賣了田產，",
+          "VerseNo": "使徒行傳 5:1"
+      },
+      {
+          "Num": "4",
+          "Title": "約翰睡在兩個士兵之間的監獄裡",
+          "kind" :  "sticker",
+          "isTrue": false,
+          "Answer":"錯",
+          "Select": "None",
+          "Verse": "6. 希律將要提他出來的前一夜，彼得被兩條鐵鍊鎖著，睡在兩個兵丁當中；看守的人也在門外看守。",
+          "VerseNo": "使徒行傳 12：6 "
+      },
+      {
+          "Num": "5",
+          "Title": "摩西打死了一個埃及人，把他扔在沙子裡。",
+          "kind" :  "sticker",
+          "isTrue": true,
+          "Answer":"對",
+          "Select": "None",
+          "Verse": "11. 後來，摩西長大，他出去到他弟兄那裡，看他們的重擔，見一個埃及人打希伯來人的一個弟兄。12.他左右觀看，見沒有人，就把埃及人打死了，藏在沙土裡。",
+          "VerseNo": "出埃及記 2:11-12"
+      },
+      {
+          "Num": "6",
+          "Title": "耶穌復活後第一次向抹大拉的馬利亞顯現。",
+          "kind" :  "sticker",
+          "isTrue": true,
+          "Answer":"對",
+          "Select": "None",
+          "Verse": "9. 在七日的第一日清早，耶穌復活了，就先向抹大拉的馬利亞顯現。耶穌從他身上曾趕出七個鬼。",
+          "VerseNo": "馬可福音 16：9"
+      },
+      {
+          "Num": "7",
+          "Title": "雅各的兒子是亞倫",
+          "kind" :  "sticker",
+          "isTrue": false,
+          "Answer":"錯",
+          "Select": "None",
+          "Verse": "1. 以色列的眾子，各帶家眷，和雅各一同來到埃及。他們的名字記在下面。2. 有流便、西緬、利未、猶大、3. 以薩迦、西布倫、便雅憫、4. 但、拿弗他利、迦得、亞設。 ",
+          "VerseNo": "出埃及記 1:1-4 "
+      },
+      {
+          "Num": "8",
+          "Title": "參孫將獅子撕成碎片。",
+          "kind" :  "sticker",
+          "isTrue": true,
+          "Answer":"對",
+          "Select": "None",
+          "Verse": "5. 參孫跟他父母下亭拿去，到了亭拿的葡萄園，見有一隻少壯獅子向他吼叫。6. 耶和華的靈大大感動參孫，他雖然手無器械，卻將獅子撕裂，如同撕裂山羊羔一樣。他行這事並沒有告訴父母。",
+          "VerseNo": "士師記  14：5-6 "
+      },
+      {
+          "Num": "9",
+          "Title": "保羅遭遇三次海難。",
+          "kind" :  "sticker",
+          "isTrue": true,
+          "Answer":"對",
+          "Select": "None",
+          "Verse": "被棍打了三次；被石頭打了一次，遇著船壞三次，一晝一夜在深海裡。",
+          "VerseNo": "哥林多後書 11：25 "
+      },
+      {
+          "Num": "10",
+          "Title": "拉麥是最年長的人",
+          "kind" :  "sticker",
+          "isTrue": false,
+          "Answer":"錯",
+          "Select": "None",
+          "Verse": "瑪土撒拉是最年長的人。他活了 969 歲。 ",
+          "VerseNo": "None"
+      }
+     ]
+ }

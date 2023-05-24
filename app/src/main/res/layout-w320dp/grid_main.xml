@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:tag="layout-large grid_main320"
+    android:layout_height="match_parent">
+
+
+    <GridView
+        android:id="@+id/qnsView"
+        android:layout_width="match_parent"
+        android:layout_height="530dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="5dp"
+        android:columnWidth="30dp"
+        android:gravity="center"
+        android:horizontalSpacing="4dp"
+        android:numColumns="10"
+        android:stretchMode="columnWidth"
+        android:verticalSpacing="4dp"></GridView>
+
+    <GridView
+        android:id="@+id/ansView"
+        android:layout_width="800dp"
+        android:layout_height="258dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="-5dp"
+        android:layout_marginEnd="5dp"
+        android:layout_marginBottom="77dp"
+        android:columnWidth="30dp"
+        android:gravity="center"
+        android:horizontalSpacing="4dp"
+        android:numColumns="10"
+        android:stretchMode="columnWidth"
+        android:verticalSpacing="4dp" />
+
+    <Button
+        android:id="@+id/ResBtn"
+
+        android:layout_width="wrap_content"
+        android:layout_height="70dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="247dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="17dp"
+        android:layout_marginBottom="5dp"
+        android:textSize="25sp"
+        android:textColor="#F6F5F5"
+        android:gravity="center"
+        android:text="@string/g_results"
+        android:background="#A29F9F"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:strokeColor="#A29F9F"
+        app:strokeWidth="2sp" />
+
+    <Button
+        android:id="@+id/skipbtn"
+        style="@style/sbutton"
+        android:layout_width="wrap_content"
+        android:layout_height="70dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="56dp"
+        android:layout_marginTop="28dp"
+        android:layout_marginEnd="15dp"
+        android:layout_marginBottom="5dp"
+        android:gravity="center"
+        android:text="@string/g_skip" />
+</RelativeLayout>

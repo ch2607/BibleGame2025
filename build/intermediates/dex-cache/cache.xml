@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Final Game 1.0\BibleGame\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0e27c7cb15fa9d89f5c7eb5a9fc72ab186ab09db">
+        <dex dex="D:\Final Game 1.0\BibleGame\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_54d385f2e1fef414af868bab8258306e7aafd87c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Final Game 1.0\BibleGame\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\Final Game 1.0\BibleGame\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_3972608cc98c3b7d84518eefdb71c576f22111b3\classes.dex" />
+    </item>
+
+</items>

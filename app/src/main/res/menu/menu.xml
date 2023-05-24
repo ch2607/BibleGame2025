@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/simplified"
+        android:title="@string/settings_simplified"
+        android:alphabeticShortcut="@string/settings_shortcut"></item>
+    <item android:id="@+id/traditional"
+        android:title="@string/settings_tranditional"
+        android:alphabeticShortcut="@string/settings_shortcut"></item>
+
+
+</menu>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/option"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="20dip" >
+
+    <string-array name="difficulty">
+        <item>@string/easy_label</item>
+        <item>@string/medium_label</item>
+        <item>@string/hard_label</item>
+    </string-array>
+
+</resources>

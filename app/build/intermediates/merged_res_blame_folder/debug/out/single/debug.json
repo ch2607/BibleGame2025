@@ -1,0 +1,1338 @@
+[
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout-w600dp_skip_sheet_layout.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout-w600dp\\skip_sheet_layout.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_page2.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout\\fragment_page2.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout-large_yandngridlist.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout-large\\yandngridlist.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_org.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\mipmap-xhdpi\\org.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_bible.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\drawable-hdpi\\ic_bible.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_sudoku.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\mipmap-hdpi\\sudoku.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout-small_gamelevel.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout-small\\gamelevel.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout_gameyandnlist.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout\\gameyandnlist.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_med1.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\mipmap-xxxhdpi\\med1.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\drawable_num12.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\drawable\\num12.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_cup.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\mipmap-mdpi\\cup.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\drawable_num04.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\drawable\\num04.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\drawable_button_gary.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\drawable\\button_gary.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout-xhdpi_main.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout-xhdpi\\main.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_action_search.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\drawable-mdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout-w320dp_choosequstion.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout-w320dp\\choosequstion.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout_allresults.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout\\allresults.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\drawable_page6.jpg.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\drawable\\page6.jpg"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_page1.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout\\fragment_page1.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_info1.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\mipmap-xxxhdpi\\info1.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout_choosegridlist.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout\\choosegridlist.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_hard1.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\mipmap-xxxhdpi\\hard1.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout-normal_game25.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout-normal\\game25.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout-w600dp_grid_main.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout-w600dp\\grid_main.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_easy1.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\mipmap-xxxhdpi\\easy1.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\font_mrs_sheppards.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\font\\mrs_sheppards.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_info1.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\mipmap-mdpi\\info1.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_yandn.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\mipmap-xhdpi\\yandn.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\drawable_button_press.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\drawable\\button_press.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_play.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\mipmap-xxxhdpi\\play.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\drawable_num20.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\drawable\\num20.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\drawable_homegif.gif.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\drawable\\homegif.gif"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_results.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\mipmap-mdpi\\results.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_ic_launcher.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout-w480dp_result_sheet_layout.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout-w480dp\\result_sheet_layout.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\drawable_num05.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\drawable\\num05.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_results.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\mipmap-xxxhdpi\\results.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout-small_fragment_page1.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout-small\\fragment_page1.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\drawable_num11.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\drawable\\num11.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_ic_bible.jpg.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\drawable-ldpi\\ic_bible.jpg"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_error.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\mipmap-xhdpi\\error.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_cup.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\mipmap-xhdpi\\cup.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_slotans.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\mipmap-hdpi\\slotans.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout-w600dp_game15.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout-w600dp\\game15.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\drawable_num21.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\drawable\\num21.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\drawable_ez051023.gif.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\drawable\\ez051023.gif"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout-small_help_main.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout-small\\help_main.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_bible.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\drawable\\ic_bible.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout-normal_fragment_page3.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout-normal\\fragment_page3.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_choose.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\mipmap-xxxhdpi\\choose.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\drawable_num13.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\drawable\\num13.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\drawable_num06.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\drawable\\num06.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\drawable_ezgif11123.gif.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\drawable\\ezgif11123.gif"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_sudoku.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\mipmap-xxhdpi\\sudoku.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout-normal_skip_sheet_layout.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout-normal\\skip_sheet_layout.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout_ready.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout\\ready.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout-w320dp_result_sheet_error_layout.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout-w320dp\\result_sheet_error_layout.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\drawable_num10.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\drawable\\num10.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout-w600dp_yandngridlist.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout-w600dp\\yandngridlist.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_star.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\drawable\\ic_star.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_page3.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout\\fragment_page3.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_homepage.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\drawable-xxhdpi\\homepage.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout_bottomsheet.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout\\bottomsheet.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_info1.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\mipmap-xxhdpi\\info1.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\drawable_num03.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\drawable\\num03.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\drawable_yandn.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\drawable\\yandn.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_yandn.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\mipmap-xxxhdpi\\yandn.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\anim_move.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\anim\\move.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_bible.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\drawable-xhdpi\\ic_bible.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout-w320dp_yandngridlist.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout-w320dp\\yandngridlist.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\anim_zoom_out.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\anim\\zoom_out.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_homepage.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\drawable-xhdpi\\homepage.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\drawable_page2.jpg.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\drawable\\page2.jpg"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_org.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\mipmap-mdpi\\org.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_help1.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\mipmap-hdpi\\help1.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout-w480dp_yandngridlist.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout-w480dp\\yandngridlist.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_help1.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\mipmap-mdpi\\help1.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\drawable_page5.jpg.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\drawable\\page5.jpg"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout-xxhdpi_result_sheet_error_layout.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout-xxhdpi\\result_sheet_error_layout.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\drawable_mchoose.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\drawable\\mchoose.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_sudoku.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\mipmap-mdpi\\sudoku.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout-w480dp_syandngridlist.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout-w480dp\\syandngridlist.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_choose.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\mipmap-mdpi\\choose.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_info1.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\mipmap-hdpi\\info1.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout-normal_fragment_page1.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout-normal\\fragment_page1.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_sudoku.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\mipmap-xhdpi\\sudoku.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_results.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\mipmap-xxhdpi\\results.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_org.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\mipmap-hdpi\\org.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout_yandn_item.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout\\yandn_item.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout-w480dp_choosequstion.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout-w480dp\\choosequstion.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_easy1.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\mipmap-mdpi\\easy1.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_med1.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\mipmap-xxhdpi\\med1.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_page5.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout\\fragment_page5.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_error.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\mipmap-xxhdpi\\error.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout-w480dp_grid_main.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout-w480dp\\grid_main.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_btnall.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\mipmap-mdpi\\btnall.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\drawable_choose.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\drawable\\choose.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\drawable_page1.jpg.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\drawable\\page1.jpg"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_slotans.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\mipmap-xhdpi\\slotans.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\drawable_homepagexx.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\drawable\\homepagexx.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout-w600dp_activity_listview.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout-w600dp\\activity_listview.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout-xxhdpi_grid_main.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout-xxhdpi\\grid_main.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_err.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\mipmap-xhdpi\\err.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout-xhdpi_skip_sheet_layout.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout-xhdpi\\skip_sheet_layout.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout-normal_result_sheet_layout.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout-normal\\result_sheet_layout.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout_gameoversheet.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout\\gameoversheet.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout-xhdpi_gamelevel.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout-xhdpi\\gamelevel.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\drawable_pic1.PNG.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\drawable\\pic1.PNG"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout-xxhdpi_main.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout-xxhdpi\\main.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout_oversheet.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout\\oversheet.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout-normal_fragment_page2.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout-normal\\fragment_page2.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_slot.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\mipmap-hdpi\\slot.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_easy1.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\mipmap-xxhdpi\\easy1.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout-w600dp_choosequstion.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout-w600dp\\choosequstion.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_game.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\mipmap-hdpi\\game.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout_help_main.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout\\help_main.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\drawable_ninegif.gif.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\drawable\\ninegif.gif"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_choose.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\mipmap-xhdpi\\choose.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_allerr.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\mipmap-xxxhdpi\\allerr.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_page4.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout\\fragment_page4.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\drawable_clear.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\drawable\\clear.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout-normal_game15.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout-normal\\game15.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\drawable_newgame.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\drawable\\newgame.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout-small_main.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout-small\\main.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout_list_row.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout\\list_row.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\drawable_num24.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\drawable\\num24.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout-w600dp_fragment_page2.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout-w600dp\\fragment_page2.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout_gameover.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout\\gameover.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\drawable_num17.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\drawable\\num17.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\anim_bounce.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\anim\\bounce.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout-normal_gameoversheet.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout-normal\\gameoversheet.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\drawable_winning.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\drawable\\winning.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout-w480dp_gameoversheet.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout-w480dp\\gameoversheet.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout_actionsheet.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout\\actionsheet.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\anim_slide_out_bottom.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\anim\\slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout-w480dp_game25.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout-w480dp\\game25.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout-w600dp_fragment_page3.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout-w600dp\\fragment_page3.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\drawable_num25.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\drawable\\num25.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\drawable_game.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\drawable\\game.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout-xhdpi_grid_main.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout-xhdpi\\grid_main.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_cup.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\mipmap-hdpi\\cup.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout-w600dp_main.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout-w600dp\\main.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\drawable_playgif.gif.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\drawable\\playgif.gif"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout_game15.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout\\game15.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_play.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\mipmap-mdpi\\play.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_easy1.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\mipmap-hdpi\\easy1.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_cup.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\mipmap-xxxhdpi\\cup.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_homepage.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\drawable-hdpi\\homepage.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\anim_leftmove.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\anim\\leftmove.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout-small_yandngridlist.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout-small\\yandngridlist.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout-xxhdpi_gameoversheet.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout-xxhdpi\\gameoversheet.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_org.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\mipmap-xxxhdpi\\org.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_check.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\mipmap-hdpi\\check.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_empty.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\mipmap-hdpi\\empty.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout-w320dp_game25.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout-w320dp\\game25.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout-w320dp_displaydialog.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout-w320dp\\displaydialog.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout_gamechooselist.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout\\gamechooselist.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_med1.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\mipmap-hdpi\\med1.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout-xxhdpi_gamelevel.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout-xxhdpi\\gamelevel.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\anim_slide_in_bottom.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\anim\\slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\drawable_bad.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\drawable\\bad.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_check.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\mipmap-mdpi\\check.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_slotans.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\mipmap-xxxhdpi\\slotans.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_slotans.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\mipmap-mdpi\\slotans.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_action_search.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_empty.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\mipmap-mdpi\\empty.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_play.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\mipmap-xhdpi\\play.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_hard1.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\mipmap-xhdpi\\hard1.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout_choosegrid.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout\\choosegrid.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_err.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\mipmap-xxxhdpi\\err.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_err.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\mipmap-hdpi\\err.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout-w320dp_fragment_page2.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout-w320dp\\fragment_page2.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_yandn.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\mipmap-hdpi\\yandn.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout-normal_grid_main.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout-normal\\grid_main.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout-w480dp_game15.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout-w480dp\\game15.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout-normal_displaydialog.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout-normal\\displaydialog.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout-normal_choosequstion.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout-normal\\choosequstion.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_slot.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\mipmap-xxhdpi\\slot.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout_game25.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout\\game25.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout-w480dp_fragment_page3.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout-w480dp\\fragment_page3.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\drawable_num26.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\drawable\\num26.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\drawable_num19.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\drawable\\num19.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_cup.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\mipmap-xxhdpi\\cup.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout-xhdpi_result_sheet_layout.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout-xhdpi\\result_sheet_layout.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout-w320dp_help_main.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout-w320dp\\help_main.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_choose.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\mipmap-hdpi\\choose.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout-w320dp_result_sheet_layout.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout-w320dp\\result_sheet_layout.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_help1.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\mipmap-xhdpi\\help1.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\drawable_sbutton_press.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\drawable\\sbutton_press.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\anim_cycle_7.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\anim\\cycle_7.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout-w480dp_help_main.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout-w480dp\\help_main.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout-w480dp_skip_sheet_layout.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout-w480dp\\skip_sheet_layout.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout-w320dp_fragment_page1.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout-w320dp\\fragment_page1.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout-w480dp_chooseqna.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout-w480dp\\chooseqna.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout-w600dp_syandngridlist.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout-w600dp\\syandngridlist.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout-w480dp_fragment_page2.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout-w480dp\\fragment_page2.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\drawable_num18.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\drawable\\num18.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\drawable_num27.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\drawable\\num27.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout-w600dp_gameoversheet.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout-w600dp\\gameoversheet.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout-small_game15.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout-small\\game15.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\drawable_bottom_dg.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\drawable\\bottom_dg.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout-normal_result_sheet_error_layout.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout-normal\\result_sheet_error_layout.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_empty.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\mipmap-xxhdpi\\empty.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_homepage.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\drawable-mdpi\\homepage.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_slot.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\mipmap-mdpi\\slot.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_check.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\mipmap-xxhdpi\\check.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout-xxhdpi_game15.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout-xxhdpi\\game15.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\drawable_buttonshape.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\drawable\\buttonshape.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout-w600dp_bottomsheet.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout-w600dp\\bottomsheet.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_check.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\mipmap-xxxhdpi\\check.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_allerr.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\mipmap-hdpi\\allerr.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout-xxhdpi_yandngridlist.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout-xxhdpi\\yandngridlist.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_error.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\mipmap-hdpi\\error.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_sudoku.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\mipmap-xxxhdpi\\sudoku.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout_about.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout\\about.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout-w480dp_fragment_page1.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout-w480dp\\fragment_page1.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout-w480dp_gamelevel.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout-w480dp\\gamelevel.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_empty.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\mipmap-xxxhdpi\\empty.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_action_search.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\drawable-hdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\anim_fly_out.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\anim\\fly_out.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout_ch_item.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout\\ch_item.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_game.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\mipmap-xxhdpi\\game.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout-normal_gamelevel.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout-normal\\gamelevel.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\drawable_awesome.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\drawable\\awesome.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_bible.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\drawable-mdpi\\ic_bible.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\drawable_num09.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\drawable\\num09.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_choose.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\mipmap-xxhdpi\\choose.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout-xxhdpi_skip_sheet_layout.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout-xxhdpi\\skip_sheet_layout.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout-w320dp_fragment_page3.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout-w320dp\\fragment_page3.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_crossok.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\mipmap-xxxhdpi\\crossok.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\drawable_num16.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\drawable\\num16.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout-w320dp_skip_sheet_layout.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout-w320dp\\skip_sheet_layout.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_game.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\mipmap-mdpi\\game.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout-xxhdpi_result_sheet_layout.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout-xxhdpi\\result_sheet_layout.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout-w320dp_grid_main.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout-w320dp\\grid_main.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\drawable_oops.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\drawable\\oops.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\anim_shake.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\anim\\shake.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout-w480dp_fragment_page4.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout-w480dp\\fragment_page4.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout-normal_main.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout-normal\\main.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\drawable_button0.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\drawable\\button0.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout-w320dp_bottomsheet.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout-w320dp\\bottomsheet.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout_displaydialog.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout\\displaydialog.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_err.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\mipmap-mdpi\\err.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\drawable_num29.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\drawable\\num29.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout-normal_yandngridlist.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout-normal\\yandngridlist.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout-w480dp_main.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout-w480dp\\main.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout-w600dp_result_sheet_error_layout.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout-w600dp\\result_sheet_error_layout.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout-small_fragment_page3.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout-small\\fragment_page3.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\drawable_num15.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\drawable\\num15.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\menu_menu.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\menu\\menu.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_med1.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\mipmap-mdpi\\med1.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_listview.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout\\activity_listview.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_slot.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\mipmap-xxxhdpi\\slot.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_error.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\mipmap-mdpi\\error.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout-w320dp_allresults.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout-w320dp\\allresults.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\drawable_ez050923.gif.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\drawable\\ez050923.gif"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_empty.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\mipmap-xhdpi\\empty.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout-w480dp_result_sheet_error_layout.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout-w480dp\\result_sheet_error_layout.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\drawable_num07.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\drawable\\num07.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_play.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\mipmap-xxhdpi\\play.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout-w480dp_displaydialog.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout-w480dp\\displaydialog.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout-w600dp_fragment_page1.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout-w600dp\\fragment_page1.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout-w320dp_syandngridlist.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout-w320dp\\syandngridlist.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\drawable_num23.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\drawable\\num23.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_check.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\mipmap-xhdpi\\check.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_hard1.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\mipmap-mdpi\\hard1.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout-w480dp_bottomsheet.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout-w480dp\\bottomsheet.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_hard1.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\mipmap-xxhdpi\\hard1.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_allerr.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\mipmap-xxhdpi\\allerr.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\drawable_rounded_corner.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\drawable\\rounded_corner.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_results.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\mipmap-xhdpi\\results.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout-normal_help_main.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout-normal\\help_main.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\anim_anim_translate.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\anim\\anim_translate.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout_listimage.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout\\listimage.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_help1.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\mipmap-xxhdpi\\help1.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\drawable_num14.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\drawable\\num14.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\drawable_num01.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\drawable\\num01.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout-w600dp_game25.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout-w600dp\\game25.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\drawable_page3.jpg.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\drawable\\page3.jpg"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout-xxhdpi_choosequstion.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout-xxhdpi\\choosequstion.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\drawable_num30.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\drawable\\num30.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout-w320dp_gameoversheet.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout-w320dp\\gameoversheet.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\drawable_num08.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\drawable\\num08.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout-small_game25.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout-small\\game25.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_game.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\mipmap-xhdpi\\game.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout-w600dp_allresults.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout-w600dp\\allresults.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\drawable_num02.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\drawable\\num02.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_hard1.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\mipmap-hdpi\\hard1.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout-w480dp_allresults.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout-w480dp\\allresults.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_err.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\mipmap-xxhdpi\\err.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\drawable_hmgif.gif.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\drawable\\hmgif.gif"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_game.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\mipmap-xxxhdpi\\game.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_help1.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\mipmap-xxxhdpi\\help1.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\drawable_good.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\drawable\\good.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout-normal_allresults.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout-normal\\allresults.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_org.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\mipmap-xxhdpi\\org.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\drawable_page4.jpg.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\drawable\\page4.jpg"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_yandn.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\mipmap-mdpi\\yandn.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_slot.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\mipmap-xhdpi\\slot.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\drawable_num28.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\drawable\\num28.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout-w320dp_gamelevel.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout-w320dp\\gamelevel.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\drawable_buttonall.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\drawable\\buttonall.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\drawable_hmsgif.gif.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\drawable\\hmsgif.gif"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\drawable_newgames.gif.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\drawable\\newgames.gif"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout-w480dp_fragment_page5.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout-w480dp\\fragment_page5.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout-small_fragment_page2.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout-small\\fragment_page2.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout-w600dp_yandn_item.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout-w600dp\\yandn_item.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_allerr.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\mipmap-mdpi\\allerr.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\drawable_button.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\drawable\\button.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout-w600dp_displaydialog.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout-w600dp\\displaydialog.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\drawable_num22.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\drawable\\num22.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\anim_rightmove.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\anim\\rightmove.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\anim_zoom_in.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\anim\\zoom_in.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_slotans.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\mipmap-xxhdpi\\slotans.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\drawable_lock.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\drawable\\lock.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout-w600dp_result_sheet_layout.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout-w600dp\\result_sheet_layout.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\drawable_levelgif.gif.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\drawable\\levelgif.gif"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_easy1.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\mipmap-xhdpi\\easy1.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout-w600dp_help_main.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout-w600dp\\help_main.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_results.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\mipmap-hdpi\\results.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout-w600dp_ch_item.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout-w600dp\\ch_item.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_yandn.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\mipmap-xxhdpi\\yandn.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_play.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\mipmap-hdpi\\play.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout-w320dp_main.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout-w320dp\\main.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout-w600dp_gamelevel.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout-w600dp\\gamelevel.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout-w320dp_game15.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout-w320dp\\game15.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_info1.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\mipmap-xhdpi\\info1.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\layout-xhdpi_game15.xml.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\layout-xhdpi\\game15.xml"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_med1.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\mipmap-xhdpi\\med1.png"
+    },
+    {
+        "merged": "D:\\Final Game 1.0\\BibleGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_allerr.png.flat",
+        "source": "D:\\Final Game 1.0\\BibleGame\\app\\src\\main\\res\\mipmap-xhdpi\\allerr.png"
+    }
+]

@@ -1,0 +1,104 @@
+﻿{
+   "Bible": [
+    {
+          "Num": "1",
+                  "Title": "彼得的头被点在盘子里",
+                  "kind" :  "sticker",
+                  "isTrue": false,
+                  "Answer":"错",
+                  "Select": "None",
+                  "Verse": "8. 女儿被母亲所使，就说：请把施洗约翰的头放在盘子里，拿来给我。9. 王便忧愁，但因他所起的誓，又因同席的人，就吩咐给他；10.于是打发人去，在监里斩了约翰，11. 把头放在盘子里，拿来给了女子；女子拿去给他母亲。",
+                  "VerseNo": "马太福音 14:8-11 "
+              },
+              {
+                  "Num": "2",
+                  "Title": "底波拉是以色列唯一的女法官",
+                  "kind" :  "sticker",
+                  "isTrue": true,
+                  "Answer":"对",
+                  "Select": "None",
+                  "Verse": "4. 有一位女先知名叫底波拉，是拉比多的妻，当时作以色列的士师。",
+                  "VerseNo": "士师记 4:4 "
+              },
+              {
+                  "Num": "3",
+                  "Title": "耶稣说“好树结好果子”。",
+                  "kind" :  "sticker",
+                  "isTrue": true,
+                  "Answer":"对",
+                  "Select": "None",
+                  "Verse": "17. 这样，凡好树都结好果子，惟独坏树结坏果子.",
+                  "VerseNo": "马太福音7:17 "
+              },
+              {
+                  "Num": "4",
+                  "Title": "弥赛亚来自利未部落。",
+                  "kind" :  "sticker",
+                  "isTrue": true,
+                  "Answer":"对",
+                  "Select": "None",
+                  "Verse": "1. 亚伯拉罕的后裔，大卫的子孙（后裔，子孙：原文是儿子；下同）耶稣基督的家谱：2. 亚伯拉罕生以撒；以撒生雅各；雅各生犹大和他的弟兄；",
+                  "VerseNo": "马太福音 1:1-2 "
+              },
+              {
+                  "Num": "5",
+                  "Title": "耶稣出生在拿撒勒城",
+                  "kind" :  "sticker",
+                  "isTrue": false,
+                  "Answer":"错",
+                  "Select": "None",
+                  "Verse": "当希律王的时候，耶稣生在犹太的伯利恆。有几个博士从东方来到耶路撒冷,",
+                  "VerseNo": "马太福音2:1 "
+              },
+              {
+                  "Num": "6",
+                  "Title": "摩西两次从磐石中流出水来",
+                  "kind" :  "sticker",
+                  "isTrue": true,
+                  "Answer":"对",
+                  "Select": "None",
+                  "Verse": "8.. 你拿着杖去，和你的哥哥亚伦招聚会众，在他们眼前吩咐磐石发出水来，水就从磐石流出，给会众和他们的牲畜喝。",
+                  "VerseNo": "民数记  20:8 "
+              },
+              {
+                  "Num": "7",
+                  "Title": "保罗在米利大遇难。",
+                  "kind" :  "sticker",
+                  "isTrue": true,
+                  "Answer":"对",
+                  "Select": "None",
+                  "Verse": "1. 我们既已得救，才知道那岛名叫米利大。",
+                  "VerseNo": "使徒行传  28:1 "
+              },
+              {
+                  "Num": "8",
+                  "Title": "当大卫在屋顶上看到拔示巴时，拔示巴正在沐浴。",
+                  "kind" :  "sticker",
+                  "isTrue": true,
+                  "Answer":"对",
+                  "Select": "None",
+                  "Verse": "2. 一日，太阳平西，大卫从床上起来，在王宫的平顶上游行，看见一个妇人，容貌甚美，3.大卫就差人打听那妇人是谁。有人说：他是以连的女儿，赫人乌利亚的妻拔示巴。.",
+                  "VerseNo": "撒母耳记下 11:2-3 "
+              },
+              {
+                  "Num": "9",
+                  "Title": "约书亚是摩西的继承人。",
+                  "kind" :  "sticker",
+                  "isTrue": true,
+                  "Answer":"对",
+                  "Select": "None",
+                  "Verse": "18. 耶和华对摩西说：嫩的儿子约书亚是心中有圣灵的；你将他领来，按手在他头上，19. 使他站在祭司以利亚撒和全会众面前，嘱咐他。",
+                  "VerseNo": "民数记  27:18-19"
+              },
+              {
+                  "Num": "10",
+                  "Title":"耶稣在约旦受洗。",
+                  "kind" :  "sticker",
+                  "isTrue": true,
+                  "Answer":"对",
+                  "Select": "None",
+                  "Verse": "13. 当下耶稣从加利利来到约但河，见了约翰，要受他的洗。。 ",
+                  "VerseNo": "马太福音 3:13"
+      }
+     ]
+ }

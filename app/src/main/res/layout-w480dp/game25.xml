@@ -1,0 +1,550 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/white"
+    android:tag="layout-large game25"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/Game5">
+
+    <AbsoluteLayout
+        android:id="@+id/GameField"
+        android:layout_width="match_parent"
+        android:layout_height="691dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="0dp">
+
+        <TextView
+            android:id="@+id/BibleText"
+            android:layout_width="338dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_marginTop="20dp"
+            android:layout_x="28dp"
+            android:layout_y="30dp"
+            android:text=""
+            android:textColor="#fbfcfd"
+            android:textSize="10sp">
+
+        </TextView>
+
+        <Button
+            android:id="@+id/Button00"
+            android:layout_width="120px"
+            android:layout_height="120px"
+            android:layout_below="@+id/GameField"
+            android:layout_x="110px"
+            android:layout_y="215px"
+            android:background="@drawable/button0"
+            android:shadowColor="#46484a"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowRadius="5"
+            android:text="0"
+            android:textColor="#0e0e0e"
+            android:textSize="48px">
+
+        </Button>
+
+        <Button
+            android:id="@+id/Button01"
+            android:layout_width="120px"
+            android:layout_height="120px"
+            android:layout_x="215px"
+            android:layout_y="215px"
+            android:background="@drawable/buttonall"
+            android:shadowColor="#A8A8A8"
+            android:shadowDx="0"
+            android:shadowDy="0"
+
+            android:shadowRadius="5"
+            android:text="1"
+            android:textColor="#151414"
+            android:textSize="48px">
+
+        </Button>
+
+        <Button
+            android:id="@+id/Button02"
+            android:layout_width="120px"
+            android:layout_height="120px"
+            android:layout_x="320px"
+            android:layout_y="215px"
+            android:background="@drawable/buttonall"
+            android:shadowColor="#A8A8A8"
+            android:shadowDx="0"
+            android:shadowDy="0"
+
+            android:shadowRadius="5"
+            android:text="2"
+            android:textColor="#151414"
+            android:textSize="48px">
+
+        </Button>
+
+        <Button
+            android:id="@+id/Button03"
+            android:layout_width="120px"
+            android:layout_height="120px"
+            android:layout_x="425px"
+            android:layout_y="215px"
+            android:background="@drawable/buttonall"
+            android:shadowColor="#A8A8A8"
+            android:shadowDx="0"
+            android:shadowDy="0"
+
+            android:shadowRadius="5"
+            android:text="3"
+            android:textColor="#151414"
+            android:textSize="48px">
+
+        </Button>
+
+        <Button
+            android:id="@+id/Button04"
+            android:layout_width="120px"
+            android:layout_height="120px"
+            android:layout_x="530px"
+            android:layout_y="215px"
+            android:background="@drawable/buttonall"
+            android:shadowColor="#A8A8A8"
+            android:shadowDx="0"
+            android:shadowDy="0"
+
+            android:shadowRadius="5"
+            android:text="4"
+            android:textColor="#151414"
+            android:textSize="48px">
+
+        </Button>
+
+
+        <Button
+            android:id="@+id/Button05"
+            android:layout_width="120px"
+            android:layout_height="120px"
+            android:layout_x="110px"
+            android:layout_y="320px"
+            android:background="@drawable/buttonall"
+            android:shadowColor="#A8A8A8"
+            android:shadowDx="0"
+            android:shadowDy="0"
+
+            android:shadowRadius="5"
+            android:text="5"
+            android:textColor="#151414"
+            android:textSize="48px">
+
+        </Button>
+
+        <Button
+            android:id="@+id/Button06"
+            android:layout_width="120px"
+            android:layout_height="120px"
+            android:layout_x="215px"
+            android:layout_y="320px"
+            android:background="@drawable/buttonall"
+            android:shadowColor="#A8A8A8"
+            android:shadowDx="0"
+            android:shadowDy="0"
+
+            android:shadowRadius="5"
+            android:text="6"
+            android:textColor="#151414"
+            android:textSize="48px">
+
+        </Button>
+
+        <Button
+            android:id="@+id/Button07"
+            android:layout_width="120px"
+            android:layout_height="120px"
+            android:layout_x="160dp"
+            android:layout_y="161dp"
+            android:background="@drawable/buttonall"
+            android:shadowColor="#A8A8A8"
+            android:shadowDx="0"
+            android:shadowDy="0"
+
+            android:shadowRadius="5"
+            android:text="7"
+            android:textColor="#151414"
+            android:textSize="48px">
+
+        </Button>
+
+        <Button
+            android:id="@+id/Button08"
+            android:layout_width="120px"
+            android:layout_height="120px"
+            android:layout_x="425px"
+            android:layout_y="320px"
+            android:background="@drawable/buttonall"
+            android:shadowColor="#A8A8A8"
+            android:shadowDx="0"
+            android:shadowDy="0"
+
+            android:shadowRadius="5"
+            android:text="8"
+            android:textColor="#151414"
+            android:textSize="48px">
+
+        </Button>
+
+        <Button
+            android:id="@+id/Button09"
+            android:layout_width="120px"
+            android:layout_height="120px"
+            android:layout_x="530px"
+            android:layout_y="320px"
+            android:background="@drawable/buttonall"
+            android:shadowColor="#A8A8A8"
+            android:shadowDx="0"
+            android:shadowDy="0"
+
+            android:shadowRadius="5"
+            android:text="9"
+            android:textColor="#151414"
+            android:textSize="48px">
+
+        </Button>
+
+
+        <Button
+            android:id="@+id/Button10"
+            android:layout_width="120px"
+            android:layout_height="120px"
+            android:layout_x="110px"
+            android:layout_y="425px"
+            android:background="@drawable/buttonall"
+            android:shadowColor="#A8A8A8"
+            android:shadowDx="0"
+            android:shadowDy="0"
+
+            android:shadowRadius="5"
+            android:text="10"
+            android:textColor="#151414"
+            android:textSize="48px">
+
+        </Button>
+
+        <Button
+            android:id="@+id/Button11"
+            android:layout_width="120px"
+            android:layout_height="120px"
+            android:layout_x="215px"
+            android:layout_y="425px"
+            android:background="@drawable/buttonall"
+            android:shadowColor="#A8A8A8"
+            android:shadowDx="0"
+            android:shadowDy="0"
+
+            android:shadowRadius="5"
+            android:text="11"
+            android:textColor="#151414"
+            android:textSize="48px">
+
+        </Button>
+
+        <Button
+            android:id="@+id/Button12"
+            android:layout_width="120px"
+            android:layout_height="120px"
+            android:layout_x="320px"
+            android:layout_y="425px"
+            android:background="@drawable/buttonall"
+            android:shadowColor="#A8A8A8"
+            android:shadowDx="0"
+            android:shadowDy="0"
+
+            android:shadowRadius="5"
+            android:text="12"
+            android:textColor="#151414"
+            android:textSize="48px">
+
+        </Button>
+
+        <Button
+            android:id="@+id/Button13"
+            android:layout_width="120px"
+            android:layout_height="120px"
+            android:layout_x="425px"
+            android:layout_y="425px"
+            android:background="@drawable/buttonall"
+            android:shadowColor="#A8A8A8"
+            android:shadowDx="0"
+            android:shadowDy="0"
+
+            android:shadowRadius="5"
+            android:text="13"
+            android:textColor="#151414"
+            android:textSize="48px">
+
+        </Button>
+
+        <Button
+            android:id="@+id/Button14"
+            android:layout_width="120px"
+            android:layout_height="120px"
+            android:layout_x="530px"
+            android:layout_y="425px"
+            android:background="@drawable/buttonall"
+            android:shadowColor="#A8A8A8"
+            android:shadowDx="0"
+            android:shadowDy="0"
+
+            android:shadowRadius="5"
+            android:text="14"
+            android:textColor="#151414"
+            android:textSize="48px">
+
+        </Button>
+
+
+        <Button
+            android:id="@+id/Button15"
+            android:layout_width="120px"
+            android:layout_height="120px"
+            android:layout_x="110px"
+            android:layout_y="530px"
+            android:background="@drawable/buttonall"
+            android:shadowColor="#A8A8A8"
+            android:shadowDx="0"
+            android:shadowDy="0"
+
+            android:shadowRadius="5"
+            android:text="15"
+            android:textColor="#151414"
+            android:textSize="48px">
+
+        </Button>
+
+        <Button
+            android:id="@+id/Button16"
+            android:layout_width="120px"
+            android:layout_height="120px"
+            android:layout_x="215px"
+            android:layout_y="530px"
+            android:background="@drawable/buttonall"
+            android:shadowColor="#A8A8A8"
+            android:shadowDx="0"
+            android:shadowDy="0"
+
+            android:shadowRadius="5"
+            android:text="16"
+            android:textColor="#151414"
+            android:textSize="48px">
+
+        </Button>
+
+        <Button
+            android:id="@+id/Button17"
+            android:layout_width="120px"
+            android:layout_height="120px"
+            android:layout_x="160dp"
+            android:layout_y="260dp"
+            android:background="@drawable/buttonall"
+            android:shadowColor="#A8A8A8"
+            android:shadowDx="0"
+            android:shadowDy="0"
+
+            android:shadowRadius="5"
+            android:text="17"
+            android:textColor="#151414"
+            android:textSize="48px">
+
+        </Button>
+
+        <Button
+            android:id="@+id/Button18"
+            android:layout_width="120px"
+            android:layout_height="120px"
+            android:layout_x="425px"
+            android:layout_y="530px"
+            android:background="@drawable/buttonall"
+            android:shadowColor="#A8A8A8"
+            android:shadowDx="0"
+            android:shadowDy="0"
+
+            android:shadowRadius="5"
+            android:text="18"
+            android:textColor="#151414"
+            android:textSize="48px">
+
+        </Button>
+
+        <Button
+            android:id="@+id/Button19"
+            android:layout_width="120px"
+            android:layout_height="120px"
+            android:layout_x="530px"
+            android:layout_y="530px"
+            android:background="@drawable/buttonall"
+            android:shadowColor="#A8A8A8"
+            android:shadowDx="0"
+            android:shadowDy="0"
+
+            android:shadowRadius="5"
+            android:text="19"
+            android:textColor="#151414"
+            android:textSize="48px">
+
+        </Button>
+        "
+
+
+        <Button
+            android:id="@+id/Button20"
+            android:layout_width="120px"
+            android:layout_height="120px"
+            android:layout_x="110px"
+            android:layout_y="635px"
+            android:background="@drawable/buttonall"
+            android:shadowColor="#A8A8A8"
+            android:shadowDx="0"
+            android:shadowDy="0"
+
+            android:shadowRadius="5"
+            android:text="20"
+            android:textColor="#151414"
+            android:textSize="48px">
+
+        </Button>
+
+        <Button
+            android:id="@+id/Button26"
+            android:layout_width="120px"
+            android:layout_height="120px"
+            android:layout_x="215px"
+            android:layout_y="635px"
+            android:background="@drawable/buttonall"
+            android:shadowColor="#A8A8A8"
+            android:shadowDx="0"
+            android:shadowDy="0"
+
+            android:shadowRadius="5"
+            android:text="21"
+            android:textColor="#151414"
+            android:textSize="48px">
+
+        </Button>
+
+        <Button
+            android:id="@+id/Button22"
+            android:layout_width="120px"
+            android:layout_height="120px"
+            android:layout_x="320px"
+            android:layout_y="635px"
+            android:background="@drawable/buttonall"
+            android:shadowColor="#A8A8A8"
+            android:shadowDx="0"
+            android:shadowDy="0"
+
+            android:shadowRadius="5"
+            android:text="22"
+            android:textColor="#151414"
+            android:textSize="48px">
+
+        </Button>
+
+        <Button
+            android:id="@+id/Button23"
+            android:layout_width="120px"
+            android:layout_height="120px"
+            android:layout_x="425px"
+            android:layout_y="635px"
+            android:background="@drawable/buttonall"
+            android:shadowColor="#A8A8A8"
+            android:shadowDx="0"
+            android:shadowDy="0"
+
+            android:shadowRadius="5"
+            android:text="23"
+            android:textColor="#151414"
+            android:textSize="48px">
+
+        </Button>
+
+        <Button
+            android:id="@+id/Button24"
+            android:layout_width="120px"
+            android:layout_height="120px"
+            android:layout_x="530px"
+            android:layout_y="635px"
+            android:background="@drawable/buttonall"
+            android:shadowColor="#A8A8A8"
+            android:shadowDx="0"
+            android:shadowDy="0"
+
+            android:shadowRadius="5"
+            android:text="24"
+            android:textColor="#151414"
+            android:textSize="48px">
+
+        </Button>
+
+        <Button
+            android:id="@+id/skipbtn"
+            style="@style/sbutton"
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="46dp"
+            android:layout_marginTop="564dp"
+            android:layout_x="110px"
+            android:layout_y="500dp"
+            android:background="@drawable/buttonall"
+            android:gravity="center"
+            android:text="跳過" />
+
+        <TextView
+            android:id="@+id/BibleNo"
+            android:layout_width="276dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_marginTop="20dp"
+            android:layout_x="50dp"
+            android:layout_y="57dp"
+            android:gravity="center"
+            android:text="no"
+            android:textColor="@color/black"
+            android:textSize="28px">
+
+        </TextView>
+
+        <Chronometer
+            android:id="@+id/Chronometer1"
+            android:layout_width="155dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/Clear"
+            android:layout_marginTop="50dp"
+            android:layout_x="58dp"
+            android:layout_y="77dp"
+            android:textColor="#f50b0b"
+            android:textSize="20dp" />
+
+        <TextView
+            android:id="@+id/Counter"
+            android:layout_width="81dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/GameField"
+            android:layout_alignBaseline="@+id/MoveText"
+            android:layout_marginLeft="5px"
+            android:layout_marginTop="50dp"
+            android:layout_toRightOf="@+id/MoveText"
+            android:layout_x="245dp"
+            android:layout_y="80dp"
+            android:text="35"
+            android:textColor="#f50b0b"
+            android:textSize="20dp">
+
+        </TextView>
+
+
+    </AbsoluteLayout>
+
+
+</RelativeLayout>

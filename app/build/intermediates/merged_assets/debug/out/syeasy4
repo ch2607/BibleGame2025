@@ -1,0 +1,104 @@
+﻿{
+   "Bible": [
+    {
+            "Num": "1",
+                    "Title": "挪亚从方舟中放出乌鸦。",
+                    "kind" :  "sticker",
+                    "isTrue": true,
+                    "Answer":"对",
+                    "Select": "None",
+                    "Verse": "6. 过了四十天，挪亚开了方舟的窗户，7. 放出一隻乌鸦去；那乌鸦飞来飞去，直到地上的水都乾了。",
+                    "VerseNo": "创世记 8:6-7 "
+                },
+                {
+                    "Num": "2",
+                    "Title": "人是在第六天被创造的。",
+                    "kind" :  "sticker",
+                    "isTrue": true,
+                    "Answer":"对",
+                    "Select": "None",
+                    "Verse": "请读创世记 1:26-31",
+                    "VerseNo": "创世记 1:26-31 "
+                },
+                {
+                    "Num": "3",
+                    "Title": "伯利恆被火和硫磺摧毁",
+                    "kind" :  "sticker",
+                    "isTrue": false,
+                    "Answer":"错",
+                    "Select": "None",
+                    "Verse": "24. 当时，耶和华将硫磺与火从天上耶和华那里降与所多玛和蛾摩拉，",
+                    "VerseNo": "创世记 19:24 "
+                },
+                {
+                    "Num": "4",
+                    "Title": "洪水过后，诺亚方舟停靠在锡安山上",
+                    "kind" :  "sticker",
+                    "isTrue": false,
+                    "Answer":"错",
+                    "Select": "None",
+                    "Verse": "4. 七月十七日，方舟停在亚拉腊山上。",
+                    "VerseNo": "创世记 8:4"
+                },
+                {
+                    "Num": "5",
+                    "Title": "在埃及，约瑟让他的兄弟们按照长子名分的顺序坐在他的餐桌旁。",
+                    "kind" :  "sticker",
+                    "isTrue": true,
+                    "Answer":"对",
+                    "Select": "None",
+                    "Verse": "32. 他们就为约瑟单摆了一席，为那些人又摆了一席，也为和约瑟同吃饭的埃及人另摆了一席，因为埃及人不可和希伯来人一同吃饭；那原是埃及人所厌恶的。33. 约瑟使众弟兄在他面前排列坐席，都按着长幼的次序，众弟兄就彼此诧异。",
+                    "VerseNo": "创世记 43:32-33 "
+                },
+                {
+                    "Num": "6",
+                    "Title": "麦基洗德是奴隶。",
+                    "kind" :  "sticker",
+                    "isTrue": false,
+                    "Answer":"错",
+                    "Select": "None",
+                    "Verse": "18. 又有撒冷王麦基洗德带着饼和酒出来迎接；他是至高神的祭司.  ",
+                    "VerseNo": "创世记 14:18 "
+                },
+                {
+                    "Num": "7",
+                    "Title": "撒拉以前叫撒莱。",
+                    "kind" :  "sticker",
+                    "isTrue": true,
+                    "Answer":"对",
+                    "Select": "None",
+                    "Verse": "15. 神又对亚伯拉罕说：你的妻子撒莱不可再叫撒莱，他的名要叫撒拉。",
+                    "VerseNo": "创世记 17:15"
+                },
+                {
+                    "Num": "8",
+                    "Title": "拉结和利亚是雅各的妻子",
+                    "kind" :  "sticker",
+                    "isTrue": true,
+                    "Answer":"对",
+                    "Select": "None",
+                    "Verse": "28. 雅各就如此行。满了利亚的七日，拉班便将女儿拉结给雅各为妻。29. 拉班又将婢女辟拉给女儿拉结作使女。30. 雅各也与拉结同房，并且爱拉结胜似爱利亚，于是又服事了拉班七年。",
+                    "VerseNo": "创世记 29:28-30"
+                },
+                {
+                    "Num": "9",
+                    "Title": "雅各和以扫埋葬了亚伯拉罕。",
+                    "kind" :  "sticker",
+                    "isTrue": false,
+                    "Answer":"错",
+                    "Select": "None",
+                    "Verse": "8. 亚伯拉罕寿高年迈，气绝而死，归到他列祖【原文作本民】那里。9. 他两个儿子以撒、以实玛利把他埋葬在麦比拉洞里。这洞在幔利前、赫人琐辖的儿子以弗崙的田中",
+                    "VerseNo": "创世记 25:8-9 "
+                },
+                {
+                    "Num": "10",
+                    "Title": "挪亚活了1050岁。",
+                    "kind" :  "sticker",
+                    "isTrue": false,
+                    "Answer":"错",
+                    "Select": "None",
+                    "Verse": "29. 挪亚共活了九百五十岁就死了。",
+                    "VerseNo": "创世记 9:29 "
+        }
+     ]
+ }

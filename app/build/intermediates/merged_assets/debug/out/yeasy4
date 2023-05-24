@@ -1,0 +1,104 @@
+﻿{
+   "Bible": [
+    {
+            "Num": "1",
+            "Title": "挪亞從方舟中放出烏鴉。",
+            "kind" :  "sticker",
+            "isTrue": true,
+            "Answer":"對",
+            "Select": "None",
+            "Verse": "6. 過了四十天，挪亞開了方舟的窗戶，7. 放出一隻烏鴉去；那烏鴉飛來飛去，直到地上的水都乾了。",
+            "VerseNo": "創世記 8:6-7 "
+        },
+        {
+            "Num": "2",
+            "Title": "人是在第六天被創造的。",
+            "kind" :  "sticker",
+            "isTrue": true,
+            "Answer":"對",
+            "Select": "None",
+            "Verse": "請讀創世記 1:26-31",
+            "VerseNo": "創世記 1:26-31 "
+        },
+        {
+            "Num": "3",
+            "Title": "伯利恆被火和硫磺摧毀",
+            "kind" :  "sticker",
+            "isTrue": false,
+            "Answer":"錯",
+            "Select": "None",
+            "Verse": "24. 當時，耶和華將硫磺與火從天上耶和華那裡降與所多瑪和蛾摩拉，",
+            "VerseNo": "創世記 19:24 "
+        },
+        {
+            "Num": "4",
+            "Title": "洪水過後，諾亞方舟停靠在錫安山上",
+            "kind" :  "sticker",
+            "isTrue": false,
+            "Answer":"錯",
+            "Select": "None",
+            "Verse": "4. 七月十七日，方舟停在亞拉臘山上。",
+            "VerseNo": "創世記 8:4"
+        },
+        {
+            "Num": "5",
+            "Title": "在埃及，約瑟讓他的兄弟們按照長子名分的順序坐在他的餐桌旁。",
+            "kind" :  "sticker",
+            "isTrue": true,
+            "Answer":"對",
+            "Select": "None",
+            "Verse": "32. 他們就為約瑟單擺了一席，為那些人又擺了一席，也為和約瑟同吃飯的埃及人另擺了一席，因為埃及人不可和希伯來人一同吃飯；那原是埃及人所厭惡的。33. 約瑟使眾弟兄在他面前排列坐席，都按着長幼的次序，眾弟兄就彼此詫異。",
+            "VerseNo": "創世記 43:32-33 "
+        },
+        {
+            "Num": "6",
+            "Title": "麥基洗德是奴隸。",
+            "kind" :  "sticker",
+            "isTrue": false,
+            "Answer":"錯",
+            "Select": "None",
+            "Verse": "18. 又有撒冷王麥基洗德帶着餅和酒出來迎接；他是至高神的祭司.  ",
+            "VerseNo": "創世記 14:18 "
+        },
+        {
+            "Num": "7",
+            "Title": "撒拉以前叫撒萊。",
+            "kind" :  "sticker",
+            "isTrue": true,
+            "Answer":"對",
+            "Select": "None",
+            "Verse": "15. 神又對亞伯拉罕說：你的妻子撒萊不可再叫撒萊，他的名要叫撒拉。",
+            "VerseNo": "創世記 17:15"
+        },
+        {
+            "Num": "8",
+            "Title": "拉結和利亞是雅各的妻子",
+            "kind" :  "sticker",
+            "isTrue": true,
+            "Answer":"對",
+            "Select": "None",
+            "Verse": "28. 雅各就如此行。滿了利亞的七日，拉班便將女兒拉結給雅各為妻。29. 拉班又將婢女辟拉給女兒拉結作使女。30. 雅各也與拉結同房，並且愛拉結勝似愛利亞，於是又服事了拉班七年。",
+            "VerseNo": "創世記 29:28-30"
+        },
+        {
+            "Num": "9",
+            "Title": "雅各和以掃埋葬了亞伯拉罕。",
+            "kind" :  "sticker",
+            "isTrue": false,
+            "Answer":"錯",
+            "Select": "None",
+            "Verse": "8. 亞伯拉罕壽高年邁，氣絕而死，歸到他列祖【原文作本民】那裡。9. 他兩個兒子以撒、以實瑪利把他埋葬在麥比拉洞裡。這洞在幔利前、赫人瑣轄的兒子以弗崙的田中",
+            "VerseNo": "創世記 25:8-9 "
+        },
+        {
+            "Num": "10",
+            "Title": "挪亞活了1050歲。",
+            "kind" :  "sticker",
+            "isTrue": false,
+            "Answer":"錯",
+            "Select": "None",
+            "Verse": "29. 挪亞共活了九百五十歲就死了。",
+            "VerseNo": "創世記 9:29 "
+        }
+     ]
+ }

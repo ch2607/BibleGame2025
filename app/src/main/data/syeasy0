@@ -1,0 +1,105 @@
+﻿{
+   "Bible": [
+    {
+        "Num": "1",
+               "Title": "以撒是亚伯拉罕的第一个儿子。",
+               "kind" :  "sticker",
+               "isTrue": true,
+               "Answer":"对",
+               "Select": "None",
+               "Verse": "当亚伯拉罕年老的时候，撒拉怀了孕；到上帝所说的日期，就给亚伯拉罕生了一个儿子。亚伯拉罕给撒拉所生的儿子起名叫以撒。",
+               "VerseNo": "创世记21:2-3 "
+           },
+           {
+               "Num": "2",
+               "Title": "含、闪和雅弗是挪亚的三个儿子",
+               "kind" :  "sticker",
+               "isTrue": true,
+               "Answer":"对",
+               "Select": "None",
+               "Verse": "挪亚五百岁生了闪、含、雅弗。",
+               "VerseNo": "创世记5:32 "
+           },
+           {
+               "Num": "3",
+               "Title": "亚当造挪亚方舟",
+               "kind" :  "sticker",
+               "isTrue": false,
+               "Answer":"错",
+               "Select": "None",
+               "Verse":"13. 上帝就对挪亚说：「凡有血气的人，他的尽头已经来到我面前；因为地上满了他们的强暴，我要把他们和地一併毁灭。14.你要用歌斐木造一隻方舟，分一间一间地造，裏外抹上松香。",
+               "VerseNo": "创世记 6:13-14"
+           },
+         {
+             "Num": "4",
+             "Title": "摩西杀死一个埃及人后逃往米甸",
+             "kind" :  "sticker",
+             "isTrue": true,
+             "Answer":"对",
+             "Select": "None",
+             "Verse": "法老听见这事，就想杀摩西，但摩西躲避法老，逃往米甸地居住",
+             "VerseNo": "出埃及记2:15"
+         },
+         {
+             "Num": "5",
+             "Title": "神造人是照着神的形象",
+             "kind" :  "sticker",
+             "isTrue": true,
+             "Answer":"对",
+             "Select": "None",
+             "Verse":"神说：我们要照着我们的形像、按着我们的样式造人，使他们管理海里的鱼、空中的鸟、地上的牲畜，和全地，并地上所爬的一切昆虫。",
+             "VerseNo": "创世记1:26 "
+         },
+         {
+             "Num": "6",
+             "Title": "上帝用尘土创造夏娃?",
+             "kind" :  "sticker",
+             "isTrue": false,
+             "Answer":"错",
+             "Select": "None",
+             "Verse":"22. 耶和华神就用那人身上所取的肋骨造成一个女人，领他到那人跟前。",
+             "VerseNo": "创世记 2:22 "
+         },
+         {
+             "Num": "7",
+             "Title": "拿弗他利被哥哥扔进井里。",
+             "kind" :  "sticker",
+             "isTrue": false,
+             "Answer":"错",
+             "Select": "None",
+             "Verse": "23. 约瑟到了他哥哥们那里，他们就剥了他的外衣，就是他穿的那件彩衣，24. 把他丢在坑里；那坑是空的，里头没有水。",
+             "VerseNo": "创世记37:23-24 "
+         },
+         {
+             "Num": "8",
+             "Title": "埃及的 10 场瘟疫之一是麻风病",
+             "kind" :  "sticker",
+             "isTrue": false,
+             "Answer":"错",
+             "Select": "None",
+             "Verse": "10 灾我们是以下 1. 血 2. 青蛙 3. 蝨子或蚊子 4. 苍蝇 5. 牲畜 6. 疮 7. 大厅 8. 蝗虫 9. 黑暗 10. 长子之死。",
+             "VerseNo": "创世记"
+         },
+         {
+             "Num": "9",
+             "Title": "起初地是空虚混沌。",
+             "kind" :  "sticker",
+             "isTrue": false,
+             "Answer":"错",
+             "Select": "None",
+             "Verse": "1. 起初，神创造天地。2. 地是空虚混沌，渊面黑暗；神的灵运行在水面上。",
+             "VerseNo": "创世记 1:1-2 "
+         },
+
+        {
+            "Num": "10",
+            "Title": "约瑟在埃及的主人是波提乏.",
+            "kind" :  "sticker",
+            "isTrue": true,
+            "Answer":"对",
+            "Select": "None",
+            "Verse": "1. 约瑟被带下埃及去。有一个埃及人，是法老的内臣─护卫长波提乏，从那些带下他来的以实玛利人手下买了他去。2. 约瑟住在他主人埃及人的家中，耶和华与他同在，他就百事顺利。",
+            "VerseNo": "创世记39:1-2"
+    }
+     ]
+ }

@@ -1,0 +1,104 @@
+﻿{
+   "Bible": [
+    {
+          "Num": "1",
+                   "Title": "使徒彼得是个帐篷匠",
+                   "kind" :  "sticker",
+                   "isTrue": false,
+                   "Answer":"错",
+                   "Select": "None",
+                   "Verse": "18. 耶稣在加利利海边行走，看见弟兄二人，就是那称呼彼得的西门和他兄弟安得烈，在海里撒网；他们本是打鱼的。",
+                   "VerseNo": "马太福音 4:18"
+               },
+               {
+                   "Num": "2",
+                   "Title": "以色列在旷野漂流四十年。",
+                   "kind" :  "sticker",
+                   "isTrue": true,
+                   "Answer":"对",
+                   "Select": "None",
+                   "Verse": "13. 耶和华的怒气向以色列人发作，使他们在旷野飘流四十年，等到在耶和华眼前行恶的那一代人都消灭了. ",
+                   "VerseNo": "民数记 32:13 "
+               },
+               {
+                   "Num": "3",
+                   "Title": "耶稣接受施洗约翰的洗礼。",
+                   "kind" :  "sticker",
+                   "isTrue": true,
+                   "Answer":"对",
+                   "Select": "None",
+                   "Verse": "1. 那时，耶稣从加利利的拿撒勒来，在约但河里受了约翰的洗。",
+                   "VerseNo": "马可福音 9:1"
+               },
+               {
+                   "Num": "4",
+                   "Title": "耶稣在耶利哥的梧桐树上看见撒该",
+                   "kind" :  "sticker",
+                   "isTrue": false,
+                   "Answer":"错",
+                   "Select": "None",
+                   "Verse": "4. 就跑到前头，爬上桑树，要看耶稣，因为耶稣必从那里经过。",
+                   "VerseNo": "路加福音 19：4 "
+               },
+               {
+                   "Num": "5",
+                   "Title": "亚伦的杖吞噬了他们的杖。",
+                   "kind" :  "sticker",
+                   "isTrue": true,
+                   "Answer":"对",
+                   "Select": "None",
+                   "Verse": "12. 他们各人丢下自己的杖，杖就变作蛇；但亚伦的杖吞了他们的杖。",
+                   "VerseNo": "出埃及记 7:12 "
+               },
+               {
+                   "Num": "6",
+                   "Title": "扫罗杀死万万，大卫杀死千千",
+                   "kind" :  "sticker",
+                   "isTrue": false,
+                   "Answer":"错",
+                   "Select": "None",
+                   "Verse": "11. 亚吉的臣僕对亚吉说：「这不是以色列国王大卫吗？那裏的妇女跳舞唱和，不是指着他说『扫罗杀死千千，大卫杀死万万』吗？」",
+                   "VerseNo": "撒母耳记上 21:11"
+               },
+               {
+                   "Num": "7",
+                   "Title": "约翰与耶稣争论洗他的脚",
+                   "kind" :  "sticker",
+                   "isTrue": false,
+                   "Answer":"错",
+                   "Select": "None",
+                   "Verse": "8. 彼得说：你永不可洗我的脚！耶稣说：我若不洗你，你就与我无分了。 ",
+                   "VerseNo": "约翰福音 13:8 "
+               },
+               {
+                   "Num": "8",
+                   "Title": "生命树每个月都结果子。",
+                   "kind" :  "sticker",
+                   "isTrue": true,
+                   "Answer":"对",
+                   "Select": "None",
+                   "Verse": "2. 在河这边与那边有生命树，结十二样（或作：回）果子，每月都结果子；树上的叶子乃为医治万民.",
+                   "VerseNo": "启示录 22：2 "
+               },
+               {
+                   "Num": "9",
+                   "Title": "五名麻风病人痊癒后回到耶稣身边。",
+                   "kind" :  "sticker",
+                   "isTrue": false,
+                   "Answer":"错",
+                   "Select": "None",
+                   "Verse": "17. 耶稣说：洁淨了的不是十个人吗？那九个在哪里呢？。",
+                   "VerseNo": "路加福音 17:17 "
+               },
+               {
+                   "Num": "10",
+                   "Title": "耶稣说身体的光就是心。",
+                   "kind" :  "sticker",
+                   "isTrue": false,
+                   "Answer":"错",
+                   "Select": "None",
+                   "Verse": "22. 眼睛就是身上的灯。你的眼睛若瞭亮，全身就光明；",
+                   "VerseNo": "马太福音6:22 "
+      }
+     ]
+ }
